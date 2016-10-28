@@ -1,0 +1,248 @@
+1 |time weekday:0 hour:15 hours_from_midnight:9 |meta hashtags:0 |tokens enjoy be carried will live economic speech at policy my 12:15 pm
+-1 |time weekday:0 hour:13 hours_from_midnight:11 |meta link hashtags:0 |tokens me tickets evening north available at in 6pm join fayetteville now at: tomorrow carolina
+-1 |time weekday:0 hour:0 hours_from_midnight:0 |meta link double_quote hashtags:1 |tokens trump" #icymi: media "will to apologize
+1 |time weekday:6 hour:23 hours_from_midnight:1 |meta hashtags:0 |tokens and clinton is lightweight total acting has who director serious former man a cia made calls of michael bad flunky the morell
+1 |time weekday:6 hour:21 hours_from_midnight:3 |meta double_quote hashtags:0 |tokens and crazy is crimea things baby" more media very going distort much purpose they totally on many dishonest so nuclear the "the
+1 |time weekday:6 hour:13 hours_from_midnight:11 |meta hashtags:0 |tokens is hard see done at in mayor crooked has she pushing job stephanie a look i joke rawlingsblake of the where baltimore
+-1 |time weekday:6 hour:2 hours_from_midnight:2 |meta link hashtags:2 |tokens #maga thank #trumppence16 hampshire windham new you
+1 |time weekday:6 hour:1 hours_from_midnight:1 |meta hashtags:0 |tokens and biased clinton very just i dishonest am hillary against will crooked running but media not the win totally
+-1 |time weekday:5 hour:20 hours_from_midnight:4 |meta link hashtags:2 |tokens be #trumppence16 fit is #crookedhillary next to president not our
+1 |time weekday:5 hour:18 hours_from_midnight:6 |meta hashtags:0 |tokens and be about short saying her talking things hampshire circuited will to hillary other brain new heading
+1 |time weekday:5 hour:14 hours_from_midnight:10 |meta double_quote hashtags:0 |tokens whose word look fit be is circuits" mind anybody up to "short president not our the "brainwashed"
+1 |time weekday:5 hour:14 hours_from_midnight:10 |meta double_quote hashtags:0 |tokens and when see "short said her crooked answering question to circuited" that very hillary world emails a on for dangerous loudly she the
+1 |time weekday:5 hour:11 hours_from_midnight:11 |meta hashtags:0 |tokens poor badly all clinton her for what being is answering see us criticized hillary let questions in performance happens
+-1 |time weekday:5 hour:3 hours_from_midnight:3 |meta link hashtags:3 |tokens #rio2016 good #openingceremony #teamusa luck
+-1 |time weekday:5 hour:2 hours_from_midnight:2 |meta link single_quote hashtags:0 |tokens on crime: right trump major is rise about it’s violent in the cities
+-1 |time weekday:5 hour:2 hours_from_midnight:2 |meta link hashtags:2 |tokens and @ wisconsin thank #trumppence16 be i back governor bay will green #maga you soon
+-1 |time weekday:4 hour:22 hours_from_midnight:2 |meta link hashtags:2 |tokens and @ #trumptrain moines iowa thank i support des appreciate governor #maga you your
+-1 |time weekday:4 hour:20 hours_from_midnight:4 |meta link hashtags:1 |tokens #makeamericasafeagain
+-1 |time weekday:4 hour:13 hours_from_midnight:11 |meta link hashtags:0 |tokens and clinton is serve bad to hillary unfit president has judgment as
+1 |time weekday:4 hour:10 hours_from_midnight:10 |meta hashtags:0 |tokens on television not geneva to i was carrying million cash hostage $400 plane iran in switzerland going the saw
+-1 |time weekday:4 hour:2 hours_from_midnight:2 |meta link single_quote hashtags:0 |tokens wont dodge about iran to i question answer as funding questions terror refuses president your obama
+-1 |time weekday:4 hour:2 hours_from_midnight:2 |meta single_quote hashtags:0 |tokens and great since isis of rise us economic disastrous worst numbers iran the obamas judgment depression gave
+-1 |time weekday:4 hour:2 hours_from_midnight:2 |meta hashtags:0 |tokens rigged about dnc against should how election they ask president the bernie obama
+-1 |time weekday:4 hour:2 hours_from_midnight:2 |meta link hashtags:0 |tokens @ iowa w/ 7pm see 3pm wisconsin you gov tomorrow
+-1 |time weekday:3 hour:22 hours_from_midnight:2 |meta link hashtags:1 |tokens you #makeamericagreatagain thank portland maine
+-1 |time weekday:3 hour:19 hours_from_midnight:5 |meta link hashtags:1 |tokens @ 226th thank #coastguardday birthday coast states to guard united the you happy
+-1 |time weekday:3 hour:19 hours_from_midnight:5 |meta link hashtags:0 |tokens on great group 50k @ this of all here doors in knocked you counting meeting maine thank
+-1 |time weekday:3 hour:15 hours_from_midnight:9 |meta link hashtags:1 |tokens pence join to wi looking ia us forward #maga gov with tomorrow
+-1 |time weekday:3 hour:2 hours_from_midnight:2 |meta link hashtags:1 |tokens #makeamericagreatagain you florida thank jacksonville
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta link hashtags:2 |tokens enforcement #maga thank florida officers #lesm to amazing in you law beach the today daytona
+-1 |time weekday:2 hour:21 hours_from_midnight:3 |meta link hashtags:1 |tokens thank florida #makeamericagreatagain you beach daytona
+1 |time weekday:2 hour:10 hours_from_midnight:10 |meta hashtags:0 |tokens clinton give one in talks our to state 400 scandal incompetent who iran was started million hillary of dollars cash the secretary
+1 |time weekday:2 hour:9 hours_from_midnight:9 |meta hashtags:0 |tokens everyone campaign is want in crooked your before thank for perhaps support there to unity ever greater beat than great i h tremendous my
+1 |time weekday:2 hour:2 hours_from_midnight:2 |meta hashtags:0 |tokens great crowd fantastic virginia in was day
+-1 |time weekday:1 hour:21 hours_from_midnight:3 |meta link hashtags:0 |tokens enjoy be tonight daughter @ on will 7pm at my
+1 |time weekday:1 hour:19 hours_from_midnight:5 |meta hashtags:0 |tokens down united perhaps of will as worst states in go president the history obama
+-1 |time weekday:1 hour:18 hours_from_midnight:6 |meta link hashtags:1 |tokens putin’s from podesta’s #icymi: uranium brother company: $180000 pocketed john
+-1 |time weekday:1 hour:18 hours_from_midnight:6 |meta link hashtags:1 |tokens #crookedhillary
+-1 |time weekday:1 hour:18 hours_from_midnight:6 |meta link hashtags:1 |tokens me join daytona #makeamericagreatagain florida | 7pm 3pm in tomorrow jacksonville
+-1 |time weekday:1 hour:17 hours_from_midnight:7 |meta link single_quote hashtags:0 |tokens failed to statement in president leadership: obamas response
+-1 |time weekday:1 hour:10 hours_from_midnight:10 |meta link hashtags:1 |tokens a what liar for calls that washington is #crookedhillary nose pathological watch she grow the really post out
+-1 |time weekday:1 hour:2 hours_from_midnight:2 |meta link hashtags:0 |tokens a great evening departing pennsylvania virginia see afternoon in ohio you now tomorrow
+-1 |time weekday:1 hour:1 hours_from_midnight:1 |meta link hashtags:1 |tokens be #maga just crowd incredible enthusiastic back leaving will mechanicsburg pa so soon
+-1 |time weekday:1 hour:1 hours_from_midnight:1 |meta hashtags:0 |tokens and jobs i mexico pennsylvania of countries moved will to that other numbers have in end win manufacturing when vast
+-1 |time weekday:0 hour:23 hours_from_midnight:1 |meta link hashtags:0 |tokens me on join daytona florida wednesday jacksonville 7pm 3pm in jacksonville: |
+-1 |time weekday:0 hour:22 hours_from_midnight:2 |meta link hashtags:0 |tokens them cut from want heard of away violence immigrant victims don’t illegal they convention cnn during the gop
+-1 |time weekday:0 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens a do and cost on refugees hillary’s syrian 550% when it will to much plan how cnn increase segment
+-1 |time weekday:0 hour:22 hours_from_midnight:2 |meta link hashtags:0 |tokens a whose led $ business deaths of isis to hillary at have many cnn from the accepted decisions linked silence
+-1 |time weekday:0 hour:21 hours_from_midnight:3 |meta link hashtags:2 |tokens donors clinton her crooked 100% owned by #imwithyou hillary #maga is
+-1 |time weekday:0 hour:20 hours_from_midnight:4 |meta link hashtags:2 |tokens be columbus #maga thank i back soon will #imwithyou ohio you
+-1 |time weekday:0 hour:20 hours_from_midnight:4 |meta link hashtags:2 |tokens thank #imwithyou oklahoma #makeamericagreatagain virginia you
+-1 |time weekday:0 hour:18 hours_from_midnight:6 |meta single_quote hashtags:0 |tokens hillarythats little saying people these days almost as something they cnn believe really
+-1 |time weekday:0 hour:18 hours_from_midnight:6 |meta hashtags:0 |tokens real life from disconnected sit chairs fundraisers support who people behind or headline hillary cnn the anchor those
+-1 |time weekday:0 hour:18 hours_from_midnight:6 |meta single_quote hashtags:0 |tokens and on we from foundation hillarys payforplay when state will department see stories at cnn clinton corruption
+-1 |time weekday:0 hour:18 hours_from_midnight:6 |meta hashtags:0 |tokens and about jobs anchors people schools of failing vanishing worried touch completely rising are cnn crime with everyday out
+-1 |time weekday:0 hour:14 hours_from_midnight:10 |meta link hashtags:1 |tokens #crookedhillary
+1 |time weekday:0 hour:13 hours_from_midnight:11 |meta single_quote hashtags:0 |tokens and all already tough have crimea what said to taken they with obama ukraine on i of continue so push the russia talk thats
+1 |time weekday:0 hour:12 hours_from_midnight:12 |meta double_quote hashtags:0 |tokens saying already is am it an in crimea down" if said when mark going interview you into putin that "not president ukraine i can
+1 |time weekday:0 hour:11 hours_from_midnight:11 |meta hashtags:0 |tokens and all doing radical is story khan rather interviews terrorism over smart get who but islamic not about this us place mr the
+1 |time weekday:0 hour:11 hours_from_midnight:11 |meta hashtags:0 |tokens and all doing is khan dnc tv same does over nice attacked who know not from now stage me viciously of mr the
+1 |time weekday:0 hour:0 hours_from_midnight:0 |meta hashtags:0 |tokens and @ unbelievable onesided laughable media wow failing it against how us a distorted biased the joke is
+1 |time weekday:6 hour:20 hours_from_midnight:4 |meta single_quote double_quote double_quote_at hashtags:2 |tokens
+1 |time weekday:6 hour:20 hours_from_midnight:4 |meta hashtags:0 |tokens over millions fawning crooked media had why speech convention wonder is more then than viewers i of dishonest h the democratic my
+1 |time weekday:6 hour:13 hours_from_midnight:11 |meta hashtags:0 |tokens respond am at allowed khan for to voted convention was war attacked hillary not iraq by me viciously i mr the democratic
+1 |time weekday:6 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens speech: on nielson clinton trump million media acceptance research 322 numbers 278 you final thank
+1 |time weekday:5 hour:23 hours_from_midnight:1 |meta hashtags:1 |tokens and all over at #1 thank crooked to speech convention you national that hillary republican viewers television made of the my dems
+1 |time weekday:5 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens major @ is it in event if would media had you crowds today be that hillary imagine a i pennsylvania can small the drawing
+-1 |time weekday:5 hour:22 hours_from_midnight:2 |meta link hashtags:0 |tokens via pay up should nato members @: commander agrees
+1 |time weekday:5 hour:22 hours_from_midnight:2 |meta single_quote hashtags:0 |tokens alliance just is general agrees pay wow their he announced a that members commander with must me like natos this will i bills top
+1 |time weekday:5 hour:22 hours_from_midnight:2 |meta double_quote hashtags:0 |tokens mexico allowed our from politicians to clintons other belt" was be jobs "rust who end by stolen like created countries us the
+1 |time weekday:5 hour:22 hours_from_midnight:2 |meta single_quote hashtags:0 |tokens 200 decimated jobs have less pennsylvania with bill stop been than vp absolutely politicians dumb drew crookeds in where by johnstown
+-1 |time weekday:5 hour:21 hours_from_midnight:3 |meta link single_quote hashtags:1 |tokens be term would third #crookedhillary terrible for seen below economic growth which our news obamas =
+1 |time weekday:5 hour:21 hours_from_midnight:3 |meta hashtags:0 |tokens and perhaps word pennsylvania her that crooked is nafta it signed very hillary because in small unenthusiastic has crowds husband
+1 |time weekday:5 hour:19 hours_from_midnight:5 |meta single_quote double_quote hashtags:0 |tokens and "big doesnt want our ratings crooked media when two to won that republicans hillary report why on speeches made i thursdays" the
+-1 |time weekday:5 hour:18 hours_from_midnight:6 |meta link hashtags:1 |tokens #crookedhillary
+-1 |time weekday:5 hour:18 hours_from_midnight:6 |meta hashtags:0 |tokens and on clinton for open crooked supports is tax crime wants hikes hillary massive a formula borders soft disaster
+-1 |time weekday:5 hour:18 hours_from_midnight:6 |meta hashtags:0 |tokens ignored united dnc be of is reduction it top crime states will violent rising priorities convention my the one yet across
+1 |time weekday:5 hour:16 hours_from_midnight:8 |meta hashtags:0 |tokens and love from colorado just incredible big rallies back two at enthusiasm got the was crowds
+-1 |time weekday:5 hour:14 hours_from_midnight:10 |meta link hashtags:1 |tokens me columbus join monday 7pm pennsylvania pa: harrisburg 3pm oh: in ohio #maga
+-1 |time weekday:5 hour:13 hours_from_midnight:11 |meta link single_quote hashtags:0 |tokens lowest we q2 homeownership dream 51yrs rate back will bring american in 629% 2016 was the
+-1 |time weekday:5 hour:12 hours_from_midnight:12 |meta hashtags:0 |tokens we last unemployment i 70 longterm hillary clinton years crooked suffering does worst are want in not through the change
+-1 |time weekday:5 hour:0 hours_from_midnight:0 |meta link hashtags:2 |tokens enforcement thank #makeamericagreatagain officers #lesm to amazing in you law the colorado
+-1 |time weekday:4 hour:22 hours_from_midnight:2 |meta link hashtags:1 |tokens thank #trumppence16 get colorado in vote springs you november out
+-1 |time weekday:4 hour:20 hours_from_midnight:4 |meta link double_quote hashtags:0 |tokens a goal" "only figure trumplike house white reagan will this in the or achieve
+-1 |time weekday:4 hour:18 hours_from_midnight:6 |meta link hashtags:0 |tokens me join colorado springs: denver tonight 7pm at in springs 2pm or denver:
+-1 |time weekday:4 hour:17 hours_from_midnight:7 |meta link hashtags:0 |tokens sanders what clinton crooked of hillary bernie thinks really
+1 |time weekday:4 hour:17 hours_from_midnight:7 |meta hashtags:0 |tokens needs old watching i country am same crooked hillary stuff our change speak
+1 |time weekday:4 hour:17 hours_from_midnight:7 |meta hashtags:0 |tokens and campaign is hearing vp out from crooked wow more them supporters that sold never hillary they will she pick my support bernie
+-1 |time weekday:4 hour:16 hours_from_midnight:8 |meta link single_quote hashtags:1 |tokens worse #trumppence16 get things clintons hillary in america
+1 |time weekday:4 hour:16 hours_from_midnight:8 |meta single_quote hashtags:0 |tokens sanders deal that very media angry dishonest was looking mention wishes speech crookeds during the he didnt make bernie
+1 |time weekday:4 hour:14 hours_from_midnight:10 |meta single_quote double_quote hashtags:0 |tokens and campaign" just tumble am rough said her crooked people political beating handle that beat hillary "couldnt a reallyi 16 i of the
+1 |time weekday:4 hour:14 hours_from_midnight:10 |meta single_quote hashtags:1 |tokens bloomberg ran vote mayor out again would #neverhillary new if run get 10% york they him he town for wouldnt of michael the
+1 |time weekday:4 hour:13 hours_from_midnight:11 |meta double_quote hashtags:0 |tokens disaster as his mayor for guts had to was "little" a who run knows never term bloomberg nothing president me about last michael the
+1 |time weekday:4 hour:13 hours_from_midnight:11 |meta hashtags:1 |tokens general his in allen #neverhillary spoke fight failed john = badly never who but met isis me last i against record bad night
+1 |time weekday:4 hour:13 hours_from_midnight:11 |meta hashtags:0 |tokens me and clinton her 22 lies crooked boring of long times very hillary were speech in mentioned statements many fabrications
+-1 |time weekday:4 hour:13 hours_from_midnight:11 |meta link hashtags:0 |tokens @ join northwestern of university tickets: tonight 7pm at ohio the
+1 |time weekday:4 hour:13 hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:0 |tokens science" down and code for i steel mines other remaining "were coal shutting plants dem in believe any manufacturing""
+-1 |time weekday:4 hour:13 hours_from_midnight:11 |meta link hashtags:0 |tokens statement: campaign
+1 |time weekday:4 hour:13 hours_from_midnight:11 |meta hashtags:0 |tokens and diego shot san just getting is policemen people two dead one only want in it law order worse
+1 |time weekday:4 hour:12 hours_from_midnight:12 |meta double_quote hashtags:0 |tokens and clinton in facts our her crooked "forgot" to very problems mention hillary me about made many average up of the country scream
+1 |time weekday:4 hour:12 hours_from_midnight:12 |meta hashtags:0 |tokens and a little clinton @ this media average convention morning very speech coverage of watched the joke = is sad
+-1 |time weekday:4 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens and devastation clinton worse her no follows wherever one judgement corruption hillary she goes has than
+-1 |time weekday:4 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens reform wall is never owned will hillary street she by
+-1 |time weekday:4 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens and even life clinton threat to words of is radical say bring hillary cannot way under our the herself by islam
+-1 |time weekday:4 hour:3 hours_from_midnight:3 |meta single_quote hashtags:0 |tokens pushes radical is 550% as unfit in islam lead increase to more hillarys that refusal mention a country she the refugees proof
+-1 |time weekday:4 hour:2 hours_from_midnight:2 |meta link hashtags:0 |tokens a iowa thank rapids this is departing cedar you now movement
+-1 |time weekday:3 hour:23 hours_from_midnight:1 |meta link hashtags:1 |tokens #crookedhillary
+-1 |time weekday:3 hour:21 hours_from_midnight:3 |meta link single_quote double_quote hashtags:0 |tokens win" warn to potential trumps not "dems underestimate
+-1 |time weekday:3 hour:21 hours_from_midnight:3 |meta link hashtags:2 |tokens me be great iowa winter @ this davenport back #tbt past to in #maga with joining
+-1 |time weekday:3 hour:20 hours_from_midnight:4 |meta hashtags:0 |tokens will clinton office for household since median took class down middle only under go income it further the is obama
+-1 |time weekday:3 hour:20 hours_from_midnight:4 |meta hashtags:0 |tokens a and for clintonkaine radical is nafta taxes high regulation of massive tpp vote refugees influx
+-1 |time weekday:3 hour:20 hours_from_midnight:4 |meta link single_quote hashtags:0 |tokens future americas
+1 |time weekday:3 hour:4 hours_from_midnight:4 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time weekday:3 hour:3 hours_from_midnight:3 |meta double_quote double_quote_at hashtags:2 |tokens
+-1 |time weekday:3 hour:2 hours_from_midnight:2 |meta single_quote hashtags:0 |tokens and living great already violence people feel country wonderful in to does poverty despair of not our the millions
+-1 |time weekday:3 hour:2 hours_from_midnight:2 |meta hashtags:0 |tokens and restore we law police protect deaths this of up officers 78% great year our shooting order enforcement must
+-1 |time weekday:3 hour:0 hours_from_midnight:0 |meta link hashtags:1 |tokens me join in #makeamericagreatagain live toledo ohio
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta link hashtags:1 |tokens #crookedhillary
+-1 |time weekday:2 hour:21 hours_from_midnight:3 |meta link hashtags:1 |tokens pennsylvania you #makeamericagreatagain thank
+-1 |time weekday:2 hour:19 hours_from_midnight:5 |meta link hashtags:1 |tokens enforcement #maga thank officers to amazing our you law
+-1 |time weekday:2 hour:18 hours_from_midnight:6 |meta link double_quote hashtags:0 |tokens set families far" illegal right: to so double crossing "trump 51152 border
+-1 |time weekday:2 hour:17 hours_from_midnight:7 |meta link hashtags:1 |tokens great thank #makeamericagreatagain new you poll
+-1 |time weekday:2 hour:16 hours_from_midnight:8 |meta single_quote hashtags:0 |tokens share them fbi any if perhaps should clintons other has illegally deleted hillary they with emails country or person the 33000 russia
+-1 |time weekday:2 hour:16 hours_from_midnight:8 |meta link hashtags:0 |tokens @ join vice michigan in thursday next tonight mi: wisconsin president our wi:
+1 |time weekday:2 hour:13 hours_from_midnight:11 |meta hashtags:0 |tokens a on pathetic people started complainingthen national flag one small american massive convention not the democratic at until stage
+1 |time weekday:2 hour:12 hours_from_midnight:12 |meta double_quote hashtags:0 |tokens just stated ted biden bright our bomb" to "carpet sorry was that very cruz joe not president wanted enemy vice i the
+1 |time weekday:2 hour:10 hours_from_midnight:10 |meta hashtags:0 |tokens clinton danger is our syrian little flood crooked to wants we that hillary know nothing with about no country immigrants massive the or
+1 |time weekday:2 hour:10 hours_from_midnight:10 |meta hashtags:0 |tokens and tough people is violent to thinking start causing beloved hopefully get vicious french killing by a isis of rationally priest the
+1 |time weekday:2 hour:9 hours_from_midnight:9 |meta hashtags:0 |tokens and enforcement great democratic police professionals our of no paid sad country to zero recognition convention respect the has law
+1 |time weekday:2 hour:9 hours_from_midnight:9 |meta double_quote hashtags:0 |tokens because is dems 1st funny said for how genius" @ putin that pushing a america me "trump working failing narrative the russia
+1 |time weekday:2 hour:9 hours_from_midnight:9 |meta hashtags:0 |tokens saying statements as election have adv her crooked top been to contrary: after killing hillary despite i job will tpp the approve
+-1 |time weekday:2 hour:3 hours_from_midnight:3 |meta link hashtags:0 |tokens on from like just i warned will crooked hillary betray have tpp clinton the beginning you
+1 |time weekday:2 hour:2 hours_from_midnight:2 |meta hashtags:0 |tokens a beautiful democratic interesting i was it but set) to say much (with convention far the republican hate than more
+1 |time weekday:2 hour:2 hours_from_midnight:2 |meta hashtags:0 |tokens and be what clinton exclaim no media overrated bill well it phony will matter incredible how says the highly to he
+1 |time weekday:2 hour:1 hours_from_midnight:1 |meta hashtags:0 |tokens and is idea thanks have facts (a your what no please strategy does you @ good get neither on isis straight thing) my
+1 |time weekday:1 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens for i russia record zero have in the investments
+1 |time weekday:1 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens and crazy disaster dealing is it dems in trump said wikileakes to stupidity horror deflect with maybe order try of the russia
+-1 |time weekday:1 hour:20 hours_from_midnight:4 |meta link hashtags:1 |tokens #crookedhillary
+-1 |time weekday:1 hour:19 hours_from_midnight:5 |meta single_quote hashtags:0 |tokens easier isis dont her interventions refugee it here foreign to unleashed for them dems want hillarys b/c come make talk plans
+-1 |time weekday:1 hour:19 hours_from_midnight:5 |meta hashtags:0 |tokens and liar it proven invention in her crooked to has incompetent be that very hillary a both for of email thing bad the
+-1 |time weekday:1 hour:18 hours_from_midnight:6 |meta link hashtags:1 |tokens new you #makeamericagreatagain thank hampshire
+-1 |time weekday:1 hour:17 hours_from_midnight:7 |meta link hashtags:2 |tokens night join #trumppence16 8pm tickets: in us at toledo ohio #maga tomorrow
+-1 |time weekday:1 hour:17 hours_from_midnight:7 |meta link hashtags:2 |tokens join #trumppence16 tickets: scranton us pennsylvania at in #maga tomorrow 3pm
+1 |time weekday:1 hour:12 hours_from_midnight:12 |meta single_quote hashtags:0 |tokens and about law isis was republican great trade deals broken bad democrats convention police the borders order why speaking arent
+1 |time weekday:1 hour:12 hours_from_midnight:12 |meta hashtags:0 |tokens a funny what good they @ did two day to difference other democrats have not fawning you if the are listen
+1 |time weekday:1 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens and all clinton show money energy it out for crooked to waste sanders that sold hillary nothing totally of work time bernie
+1 |time weekday:1 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens me and about often just crooked glowingly elizabeth who hillary hated to as she always spoke warren pocahontas misrepresented referred
+-1 |time weekday:1 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens and all revolution voters back sad bring want our fix system who to sanders we his jobs welcome watch abandon rigged bernie
+1 |time weekday:0 hour:21 hours_from_midnight:3 |meta hashtags:0 |tokens and then at have in fine if said pictures juan taken was williams @ met with he me on i could air trashes passing asked
+1 |time weekday:0 hour:21 hours_from_midnight:3 |meta hashtags:0 |tokens and all money energy hard vp fold done for to got has joke sanders complete that nothing such believe he a of time the bernie
+-1 |time weekday:0 hour:21 hours_from_midnight:3 |meta hashtags:0 |tokens all voters want our given for workers people who fight better has we his welcome totally a on up while future the bernie
+-1 |time weekday:0 hour:21 hours_from_midnight:3 |meta hashtags:0 |tokens and iraq clinton voters wall of is in pocket backed street tpp betrayed bernie supports war kaine
+-1 |time weekday:0 hour:21 hours_from_midnight:3 |meta link hashtags:1 |tokens ohio you thank #trumppence16
+-1 |time weekday:0 hour:21 hours_from_midnight:3 |meta link hashtags:1 |tokens roanoke be thank #trumppence16 back virginia you soon
+-1 |time weekday:0 hour:18 hours_from_midnight:6 |meta link hashtags:1 |tokens and again great #trumppence16 make safe america
+-1 |time weekday:0 hour:16 hours_from_midnight:8 |meta link hashtags:1 |tokens #makeamericagreatagain
+1 |time weekday:0 hour:14 hours_from_midnight:10 |meta hashtags:0 |tokens and clinton is embarrassed vote for crooked state debbie wasserman schultz that antics hillary they by change of florida will so the
+1 |time weekday:0 hour:13 hours_from_midnight:11 |meta hashtags:0 |tokens and clinton another in go scandal yet again crooked fix had emails believe) you was we never knew here hillary with (can a b chance the
+1 |time weekday:6 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens doing is alive say democrats in meltdown total media system how biased but they emails a great well will rigged the are
+1 |time weekday:6 hour:22 hours_from_midnight:2 |meta single_quote hashtags:0 |tokens and dont energy hook even strength crooked that has sanders his supporters though hillary let believe off lost i will the bernie
+1 |time weekday:6 hour:20 hours_from_midnight:4 |meta single_quote hashtags:0 |tokens and @ all trump ratings almost sided watch against one better much so are cnn dont the panels is higher
+1 |time weekday:6 hour:20 hours_from_midnight:4 |meta hashtags:0 |tokens schultz and said left that i always is no up exhausted wasserman debbie cracking convention dems the bernie was energy overrated
+1 |time weekday:6 hour:13 hours_from_midnight:11 |meta single_quote hashtags:0 |tokens and just exhausted is sad cant go any dnc to folks new sorry sanders dismiss but disrespect trying emails he on longer the bernie
+1 |time weekday:6 hour:13 hours_from_midnight:11 |meta double_quote hashtags:0 |tokens and all be is it out "political end no there to sanders turning pathetic weak figurewants somewhat he a longer revolution" bernie
+1 |time weekday:6 hour:12 hours_from_midnight:12 |meta hashtags:0 |tokens sanders delegates would showed that super it analysis an won if have were not for the democratic nomination bernie
+1 |time weekday:6 hour:12 hours_from_midnight:12 |meta hashtags:0 |tokens and people looks total if stands for fight their tears waste was opposite blood not a like of will sweat time the bernie kaine
+1 |time weekday:6 hour:11 hours_from_midnight:11 |meta single_quote hashtags:0 |tokens me badly voting for just that presidentlike treated wow probably brother by else malik president everybody obamas was is announced he
+1 |time weekday:6 hour:11 hours_from_midnight:11 |meta hashtags:0 |tokens selection is ending vp total really for much movement sanders started weak but disrespect strong with a off of so the bernie kaine
+1 |time weekday:6 hour:11 hours_from_midnight:11 |meta hashtags:0 |tokens and all just is vp another crooked to sanders his supporters disrespectful very choice judgement hillary by case of bad h the bernie
+-1 |time weekday:6 hour:0 hours_from_midnight:0 |meta link hashtags:2 |tokens #makeamericagreatagain #trumppence16
+1 |time weekday:5 hour:22 hours_from_midnight:2 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time weekday:5 hour:22 hours_from_midnight:2 |meta link double_quote double_quote_at hashtags:1 |tokens
+1 |time weekday:5 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens on everyone from thank for heart of thursday reviews to wonderful speech night you my the
+-1 |time weekday:5 hour:21 hours_from_midnight:3 |meta hashtags:0 |tokens is it impossible her make to was email today sanders unless that wikileaks him he a fraud for will bad so release the support
+1 |time weekday:5 hour:20 hours_from_midnight:4 |meta single_quote hashtags:0 |tokens and me isis they just look crooked to together tim hillary other dont are drooling our enemies saw presidential kaine
+1 |time weekday:5 hour:16 hours_from_midnight:8 |meta single_quote hashtags:0 |tokens and clinton people almost back years bring in wages wage twenty had increase real jobs get killed a i up will havent
+1 |time weekday:5 hour:15 hours_from_midnight:9 |meta hashtags:0 |tokens and praising killer trans hard to partnership it been get tim job pacific pushing the has approved kaine
+1 |time weekday:5 hour:15 hours_from_midnight:9 |meta hashtags:0 |tokens and back bring democrats have in funny her their convention jobs that killed would pennsylvania many will i so the where husband
+1 |time weekday:5 hour:14 hours_from_midnight:10 |meta hashtags:0 |tokens and manufacturing clinton signed nafta crooked steelworkers against destroyed pennsylvania hillary miners in jobs has husband
+1 |time weekday:5 hour:10 hours_from_midnight:10 |meta hashtags:0 |tokens and leaked show really from dnc wikileakes to much online destroy mock more sanders his plans heritage vicious emails of rigged bernie
+1 |time weekday:5 hour:10 hours_from_midnight:10 |meta single_quote hashtags:0 |tokens because wasnt vp done in slot her chosen senate also has hates badly but hillary nothing wanted pocahontas crooked so she the
+1 |time weekday:5 hour:10 hours_from_midnight:10 |meta hashtags:0 |tokens and is owned outraged are for tim been their fought has was supporters choice nothing by last always banks the kaine bernie
+1 |time weekday:5 hour:10 hours_from_midnight:10 |meta hashtags:0 |tokens stands sanders what supporters for represents fight of philly who choice tim are opposite furious the kaine with bernie
+1 |time weekday:5 hour:3 hours_from_midnight:3 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time weekday:5 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens general to just how i of defeat michael highly field book recommend islam radical the fight by flynn out
+1 |time weekday:5 hour:3 hours_from_midnight:3 |meta single_quote hashtags:0 |tokens and is it in indicted get same thousands that took hundreds gifts the did of dollars m governor while bob didnt virginia kaine
+1 |time weekday:4 hour:13 hours_from_midnight:11 |meta hashtags:0 |tokens and be we love thank many back times will cleveland you
+1 |time weekday:4 hour:13 hours_from_midnight:11 |meta hashtags:0 |tokens and all in fantastic four done cleveland what police service secret rnc job by a great of proud days so were the
+-1 |time weekday:4 hour:5 hours_from_midnight:5 |meta link hashtags:1 |tokens and again great make safe #rncincle america
+-1 |time weekday:4 hour:4 hours_from_midnight:4 |meta link hashtags:1 |tokens #trumppence16 of acceptance the nomination formal
+-1 |time weekday:3 hour:19 hours_from_midnight:5 |meta link hashtags:1 |tokens this a is #rncincle movement
+-1 |time weekday:3 hour:17 hours_from_midnight:7 |meta link hashtags:2 |tokens @ thank of proud #trumppence2016 #rncincle you
+1 |time weekday:3 hour:14 hours_from_midnight:10 |meta hashtags:0 |tokens and love people is have in embarrassing united group other party suffered arena very who than a great of losses massive small the
+1 |time weekday:3 hour:14 hours_from_midnight:10 |meta single_quote hashtags:0 |tokens about us constitution presidency that win all ted say but will cruz doesnt dems justices destroy talks new the appointed if
+1 |time weekday:3 hour:12 hours_from_midnight:12 |meta hashtags:0 |tokens and tiffany am tonight eric incredible children their under intros enormous pressure me speeches don i of proud soooo were ivanka my
+-1 |time weekday:3 hour:4 hours_from_midnight:4 |meta link hashtags:0 |tokens again make america great
+1 |time weekday:3 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens arena totally was electric packed
+1 |time weekday:3 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens a @ fantastic be great tonight will vp was
+-1 |time weekday:3 hour:3 hours_from_midnight:3 |meta link hashtags:3 |tokens #gopconvention @ united gov vice of #americafirst next states #gopincle president our the america
+1 |time weekday:3 hour:3 hours_from_midnight:3 |meta single_quote hashtags:0 |tokens pledge deal booed ted anyway saw speak no wow two speech got his big but early cruz let him stage hours off i the didnt honor
+-1 |time weekday:3 hour:2 hours_from_midnight:2 |meta link hashtags:2 |tokens @ great of proud #americafirst job #rncincle you
+1 |time weekday:3 hour:1 hours_from_midnight:1 |meta hashtags:0 |tokens @ great thank for support governor to warm speech such you
+-1 |time weekday:2 hour:23 hours_from_midnight:1 |meta hashtags:3 |tokens #gopconvention the #americafirst #rncincle watching
+1 |time weekday:2 hour:18 hours_from_midnight:6 |meta hashtags:0 |tokens me be great days in just never cleveland two asked vp to arrived will a kasich john was by
+-1 |time weekday:2 hour:17 hours_from_midnight:7 |meta link hashtags:0 |tokens on speech melania statement
+1 |time weekday:2 hour:12 hours_from_midnight:12 |meta hashtags:0 |tokens instead republicans jobs remember people i of that cleveland state think will to another going picked in ohio the november
+1 |time weekday:2 hour:12 hours_from_midnight:12 |meta hashtags:0 |tokens and @ explaining very of energy bill excitement arena years hemmer past in the more was than nice
+1 |time weekday:2 hour:10 hours_from_midnight:10 |meta hashtags:0 |tokens and on congratulations don i of tiffany proud am fantastic having to job done a night very last you my children
+1 |time weekday:1 hour:23 hours_from_midnight:1 |meta hashtags:0 |tokens and nominee hard america states such united for to you be never let president republican a down great i of work will the honor first
+1 |time weekday:1 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens exciting very is call at national convention the republican beginning roll
+-1 |time weekday:1 hour:20 hours_from_midnight:4 |meta link hashtags:3 |tokens #makeamericaworkagain #rncincle #trumppence16
+-1 |time weekday:1 hour:19 hours_from_midnight:5 |meta link hashtags:3 |tokens #makeamericaworkagain #rncincle #trumppence16
+1 |time weekday:1 hour:13 hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens
+-1 |time weekday:1 hour:4 hours_from_midnight:4 |meta hashtags:1 |tokens and #gopconvention proud very her wife absolutely my incredible it introduce an to speech melania were demeanor truly was honor
+-1 |time weekday:1 hour:0 hours_from_midnight:0 |meta single_quote hashtags:2 |tokens #gopconvention be tonight to do @ melanias 8:30pm great will prior speech at #rncincle in the on tune she
+-1 |time weekday:0 hour:23 hours_from_midnight:1 |meta link hashtags:3 |tokens #gopconvention #makeamericasafeagain #rncincle
+1 |time weekday:0 hour:20 hours_from_midnight:4 |meta hashtags:0 |tokens and ratings fair @ very been than other low have exciting networks
+1 |time weekday:0 hour:20 hours_from_midnight:4 |meta hashtags:0 |tokens trump worstthey want: is dumb go again for majority make when their speaker @ to podium america vast a great onesided the panels
+-1 |time weekday:0 hour:17 hours_from_midnight:7 |meta link hashtags:1 |tokens mahoning thank soon county #makeamericasafeagain see ohio you
+1 |time weekday:6 hour:21 hours_from_midnight:3 |meta hashtags:0 |tokens and we good tough watching country is looking are not our totally divided smart enemies
+1 |time weekday:6 hour:18 hours_from_midnight:6 |meta link double_quote double_quote_at hashtags:1 |tokens
+1 |time weekday:6 hour:18 hours_from_midnight:6 |meta hashtags:0 |tokens and control own people is are our out trying police divided fight to we watching killing world now isis country of the
+-1 |time weekday:6 hour:17 hours_from_midnight:7 |meta link hashtags:0 |tokens and enforcement we to for people many rouge grieve officers baton how have in the law killed today
+1 |time weekday:6 hour:13 hours_from_midnight:11 |meta single_quote hashtags:0 |tokens blow ratings and because clinton network @ of away even people like cnn dont at news not close the is thats
+1 |time weekday:6 hour:13 hours_from_midnight:11 |meta single_quote hashtags:0 |tokens and @ all stacked i for far is watch negative better crooked hillary much dont guests which truthful than are more
+1 |time weekday:6 hour:12 hours_from_midnight:12 |meta single_quote hashtags:0 |tokens native lie (being her heritage if today be elizabeth very weak american) nothing a about would h goofy she pick warren senator didnt
+1 |time weekday:6 hour:12 hours_from_midnight:12 |meta hashtags:0 |tokens then we fraud elizabeth her that i sometimes to picks vp crooked hillary goofy can litigate as referred pocahontas hope warren
+1 |time weekday:6 hour:12 hours_from_midnight:12 |meta single_quote hashtags:0 |tokens all made bernie look that crooked of bad it experience judgement matter hillary doesnt at said the has decisions she
+1 |time weekday:6 hour:11 hours_from_midnight:11 |meta hashtags:0 |tokens and clinton is (and see in go our total decisions as what crooked weeks world) into we led mess hillary by obama a country days bad the
+1 |time weekday:6 hour:4 hours_from_midnight:4 |meta hashtags:0 |tokens a again we for lead country make in cleveland great results will to going are have time our america special
+1 |time weekday:6 hour:4 hours_from_midnight:4 |meta single_quote hashtags:0 |tokens senate is in its warren productive prove least goofy over be elizabeth may who not must a fraud us without she senator the con
+1 |time weekday:6 hour:3 hours_from_midnight:3 |meta hashtags:0 |tokens and neo all thank cheryl of ann friends virginia to job great jack morgan in tamara kraft my you supporters
+1 |time weekday:4 hour:14 hours_from_midnight:10 |meta hashtags:0 |tokens a what look world crooked of is administration o years four to hillary weakness not happened the has with acceptable more
+1 |time weekday:4 hour:14 hours_from_midnight:10 |meta hashtags:1 |tokens committee is cleveland at #nevertrump in vote again make 8712 more rules never crushed were they america by a great last of night
+-1 |time weekday:4 hour:0 hours_from_midnight:0 |meta hashtags:0 |tokens and we victims prayers condolences of with terrible france to you every are way in families the my tragedy nice
+-1 |time weekday:3 hour:17 hours_from_midnight:7 |meta hashtags:0 |tokens just people in out sell employ her crooked state jobs virginia hillary with like nafta i many us will did of the husband
+-1 |time weekday:3 hour:14 hours_from_midnight:10 |meta link hashtags:1 |tokens the join thank for #imwithyou support another new you poll your today movement
+-1 |time weekday:3 hour:13 hours_from_midnight:11 |meta link hashtags:2 |tokens great america thank #imwithyou new you poll #trump2016
+-1 |time weekday:3 hour:1 hours_from_midnight:1 |meta hashtags:0 |tokens announcement friday in to be i of vice will 11am follow at pick making the on my manhattan presidential details
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens real and we presidency opinions i win ginsburg judges legal will swamp justice the with if
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens even @ and boards for ethical justice condemned ginsburg what legal thinking her she editorial breach the was
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens me supreme court her for justice big is ginsburg incompetent an to going bader apologize judge misconduct ruth by mistake
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens and san money am diego raise for to spending also lot party way helping others republican a on myself i the my
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta single_quote hashtags:0 |tokens and hillarys ads just that crooked voters negative lies fraudulent her understand are activity not other true email like
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta hashtags:1 |tokens a on @ ads nationwide flat spending impact in #crookedhillary $500k falls tv zero having despite alone sad day
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta link single_quote hashtags:0 |tokens all hillarys crooked one lyin thing stories common have in email
+-1 |time weekday:2 hour:22 hours_from_midnight:2 |meta hashtags:0 |tokens and me israel his is moves all know it to bad let about president destroy trying with think obama
+-1 |time weekday:2 hour:21 hours_from_midnight:3 |meta link single_quote hashtags:1 |tokens me a i pennsylvania florida is #crookedhillary started 1 to combined in 31 havent ohio yet by outspending
