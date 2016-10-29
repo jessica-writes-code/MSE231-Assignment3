@@ -67,7 +67,7 @@ for line in sys.stdin:
     line[2] = re.sub("@[a-zA-Z0-9_-]+", "@", line[2])
 
     # Tokenization
-    line[2] = line[2].translate(None,'-!,.?;\'')
+    line[2] = line[2].translate(None,'-!,.?;:\'')
 
     ## Tokenize
     tokens = line[2].lower().split()
