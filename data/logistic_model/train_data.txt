@@ -1,0 +1,992 @@
+-1 |time hours_from_midnight:12 |meta link hashtags:1 |tokens thank #imwithy
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens court suprem justic make ginsburg mind us dumb resign statement embarrass shot polit
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens indiana #trump2016 thank
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens iowa thank soon #imwithy see #trump2016
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens interview @ tonight enjoy 8pm
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens peopl free american pass agre #crookedhillari
+-1 |time hours_from_midnight:7 |meta hashtags:0 |tokens voter interest deal peopl global stop trade berni bad want first open arm special welcom
+-1 |time hours_from_midnight:7 |meta hashtags:0 |tokens endors hillari clinton sander wall support war crook berni street tpp abandon pro
+-1 |time hours_from_midnight:7 |meta hashtags:0 |tokens endors hillari clinton like berni wall goldman sach crook street occupi sander
+-1 |time hours_from_midnight:8 |meta link hashtags:1 |tokens qualifi #crookedhillari
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens sell sander support happi berni somewhat surpris true
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens sander hillari clinton lost crook sold berni fan angri total endors today leverag
+-1 |time hours_from_midnight:12 |meta hashtags:1 |tokens choic america elect violenc make safe chao #imwithy crime everyon safeti law order
+-1 |time hours_from_midnight:12 |meta hashtags:0 |tokens protect safeti need deliv job citi behind inner year go mani left
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens control good look get chicago crime citi wors rapidli inner go
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens #makeamericagreatagain #imwithy
+-1 |time hours_from_midnight:0 |meta link hashtags:0 |tokens campaign e trump district robert judg deleg rule argu favor state payn today senior unit
+-1 |time hours_from_midnight:2 |meta link single_quote hashtags:0 |tokens veteran speech reform
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens great poll florida thank
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens counti victim berrien courthous michigan st thought joseph famili prayer along everyon
+-1 |time hours_from_midnight:11 |meta link hashtags:1 |tokens join tomorrow ticket night indiana 730pm #trump2016 westfield
+1 |time hours_from_midnight:6 |meta hashtags:0 |tokens @ hour insid king peopl watch underachiev dead one heard lie happili john network polit
+1 |time hours_from_midnight:6 |meta hashtags:0 |tokens sound foolishthey media make dishonest public twist turn bad stupid statement think
+1 |time hours_from_midnight:6 |meta hashtags:0 |tokens divid peopl make nation live believ presid world think obama
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens hillari clinton look divid peopl weak like crook leadership countri happen nation obama
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens new poll #trump2016 thank
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens @ champion proud way go true
+-1 |time hours_from_midnight:1 |meta link hashtags:0 |tokens make america safe
+-1 |time hours_from_midnight:3 |meta single_quote hashtags:0 |tokens lie hillari clinton @ question tragedi nation email isnt softbal answer sad day
+-1 |time hours_from_midnight:11 |meta link single_quote hashtags:0 |tokens shoot style 12 horrif execut offic dalla night last enforc law
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens horror prayer watch devast place take famili condol thoroughli countri
+1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens hillari offici lyin crook call today
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens #americafirst @ #trump2016 speaker thank
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens #makeamericagreatagain
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens collin rep #trump2016 thank
+1 |time hours_from_midnight:6 |meta hashtags:0 |tokens great love hous peopl dc leav interest countri meet republican senat day
+-1 |time hours_from_midnight:11 |meta link hashtags:2 |tokens great cincinnati thank #americafirst washington dc night ohio #trump2016 last
+-1 |time hours_from_midnight:1 |meta link single_quote hashtags:1 |tokens star media #frozen dishonest david also book outrag disney
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens pleas hillari contribut campaign beat twitter crook whatev follow must
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens ovat againh eye could nc watch chuck littl speech stand todd touch polit sleepi man
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens even great bankrupt ac democrat citi atlant other council ask follow happen caesar
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens hillari made clinton center convent airport move democrat wrong citi pol ask destroy atlant
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens ago great made 7 big money time pol bankruptci citi atlant know lot year mistak mani left
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens lie hillari clinton peopl sooooo watch crook come time countri fbi guilti
+-1 |time hours_from_midnight:12 |meta link hashtags:0 |tokens hillari clinton help may system escap rig crimin charg
+1 |time hours_from_midnight:11 |meta double_quote hashtags:0 |tokens information" hillari clinton fit handl sensit classifi "were crook careless team extrem highli
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens serv hillari clinton oppon tempera weak us judgement crook bad unfit presid strong
+1 |time hours_from_midnight:4 |meta single_quote double_quote hashtags:0 |tokens novemb hillari voter forget get away she system crook 8 allow "murder" rig come think dont
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens parti announc money support figur rais morn lot big gasp republican win
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens interview @ tonight 11pm enjoy
+-1 |time hours_from_midnight:0 |meta hashtags:0 |tokens enjoy @ 10pm son tonight interview
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens @ great iowa see peopl yesterday us job done time fantast spend
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens use total fortun campaign crook forc pay hillari air trail presid disgrac one taxpay obama
+1 |time hours_from_midnight:2 |meta double_quote hashtags:0 |tokens enjoy @ 700 meet pm trumps" hope "special
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens use campaign crook forc pay hillari air fli trail allow presid one tomorrow obama
+1 |time hours_from_midnight:9 |meta single_quote hashtags:0 |tokens fool wont hillari terrorist get even attack wors call islam radic polit correct obama
+1 |time hours_from_midnight:9 |meta double_quote hashtags:0 |tokens hillari 33000 clinton mail system hell" crook "guilti corrupt rig total miss e
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens vp peopl ask interest pick
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ great iowa look job done jersey new forward meet senat today
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens mike great impress spent governor yesterday penc famili time indiana peopl
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens tri absolut depict star sheriff rather media tweet dishonest david plain best
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens fool hillari clinton would bill usag crook believ arrang meet know
+1 |time hours_from_midnight:7 |meta hashtags:0 |tokens @ good entir show peopl get watch chuck bias todd news meth total
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens hillari clinton bill crimin wrong stupid recommend fbi imposs charg
+-1 |time hours_from_midnight:9 |meta link hashtags:1 |tokens @ thank #imwithy
+-1 |time hours_from_midnight:9 |meta link hashtags:2 |tokens #leadright2016 support #americafirst thank
+-1 |time hours_from_midnight:9 |meta link hashtags:1 |tokens #americafirst thank
+-1 |time hours_from_midnight:9 |meta link hashtags:1 |tokens #americafirst potu becom ignor next
+-1 |time hours_from_midnight:9 |meta link hashtags:2 |tokens hillari make #americafirst #imwithy histori crook
+-1 |time hours_from_midnight:11 |meta link hashtags:1 |tokens right shall peopl clear upon bear keep #2a infring constitut arm
+-1 |time hours_from_midnight:11 |meta link hashtags:2 |tokens #americafirst #imwithy
+1 |time hours_from_midnight:11 |meta double_quote hashtags:0 |tokens awar total @ read peopl lie held cleveland" sick fail "the event
+-1 |time hours_from_midnight:1 |meta link single_quote hashtags:2 |tokens see fix safe #americafirst say #imwithy cant america make
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens return colorado crowd amaz
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens great thank support safe #americafirst #imwithy america make
+-1 |time hours_from_midnight:8 |meta link single_quote hashtags:1 |tokens wont never elect potu killer #americafirst crime im happen
+-1 |time hours_from_midnight:11 |meta link hashtags:0 |tokens 13 terrorist old tough palestinian home get israel american kill year horribl girl must
+-1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ great good work fox keep job morn
+-1 |time hours_from_midnight:12 |meta hashtags:0 |tokens clinton look w/ bill system realli take meet coincid rig happen total anybodi believ
+-1 |time hours_from_midnight:12 |meta single_quote hashtags:0 |tokens nobodi clinton caught bill secret know report meet total local
+-1 |time hours_from_midnight:12 |meta single_quote hashtags:0 |tokens sander hillari said clinton bill initi judgement berni bad demand meet probabl
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens great campaign success approxim million $50 reason want put america simpl primari make
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens approx campaign win self million fund $50 termin loan total primari
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens @ deal campaign loan million dishonest accept $50 done refus forgiven fact
+-1 |time hours_from_midnight:5 |meta link single_quote hashtags:0 |tokens sell hillari america wouldnt see public reason hid rich got one email
+-1 |time hours_from_midnight:6 |meta link hashtags:0 |tokens hillari would crook graduat colleg want presid destroy
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens @ deal rather explain bad continu better reason want trade make renegoti
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens tremend thank make day massachusett main everyon special
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens enjoy @ 800 pm
+-1 |time hours_from_midnight:6 |meta single_quote hashtags:0 |tokens explod hillari clinton never watch capabl isi done she noth
+-1 |time hours_from_midnight:10 |meta link hashtags:0 |tokens join center cross bangor insur 4pme main today
+-1 |time hours_from_midnight:10 |meta link hashtags:1 |tokens great america #trump2016 deal win make q go new poll whole
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ great thank watch john senat barrasso
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens pact @ advantag terribl harder worker us fight american other china take mani trade must
+1 |time hours_from_midnight:2 |meta single_quote hashtags:0 |tokens mike sure would convent though media make job good im iron ask tyson everyth speak
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens lie hillari #trump2016 watch 2nd crook video onlin #crookedhillari check
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:5 |meta single_quote double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:5 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:5 |meta single_quote double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:5 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens @ dont neg anymor watch come
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens brexit light novemb media watch hillari wrong report stori call neg go unrel
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens wheel lie hillari goofi elizabeth product least one crook us heritag senat warren
+1 |time hours_from_midnight:1 |meta single_quote double_quote double_quote_at hashtags:2 |tokens
+1 |time hours_from_midnight:1 |meta link double_quote double_quote_at hashtags:1 |tokens deals" trump brilliant make trade donald " #dtmag presid new america
+1 |time hours_from_midnight:0 |meta link single_quote double_quote double_quote_at hashtags:0 |tokens sigh" @ feel she fake teleprompt told
+1 |time hours_from_midnight:1 |meta single_quote double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:1 |meta double_quote hashtags:0 |tokens even @ "dirty" disgrac democrat admit good done mani poll
+-1 |time hours_from_midnight:2 |meta link hashtags:0 |tokens hillari donat foreign crook attack ignor govern
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens hillari said clinton bad win time question brexit judgement crook wrong leav sens got market
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens fortun hillari old statu agent littl close clinton chang poll spend quo
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens hillari old like peopl time job crook pol without want win countri line border chang
+-1 |time hours_from_midnight:8 |meta link single_quote hashtags:0 |tokens hillari clinton trump top stake 50 crook address elect fact
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens @ good would dishonest democrat heavi sampl poll
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens lie hillari golf ad show support never play took crook hit major son = turnberri shot
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens tri brexit clinton ad big away dollar judgement wash bad call disgrac
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens son great land scotland budget stay job york night magnific new turnberri one eric came
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens end offic ice job bp presid block obama
+-1 |time hours_from_midnight:2 |meta hashtags:1 |tokens love peopl support #americafirst admit want valu
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens vet suspend region proven link immigr terror place method must
+-1 |time hours_from_midnight:8 |meta link hashtags:0 |tokens @ join thank yesterday us everyon came
+-1 |time hours_from_midnight:9 |meta link hashtags:0 |tokens box @ daughter kai tee 13th grand
+-1 |time hours_from_midnight:10 |meta link hashtags:0 |tokens @ arriv back tonight video york new
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens hillari deal incorrectli crook brexit one funni say call uk action talk
+-1 |time hours_from_midnight:4 |meta hashtags:1 |tokens deal flood west virginia #imwithy thought devast prayer everyon
+1 |time hours_from_midnight:2 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens brexit peopl great us back britain equat want countri go mani happen
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens excit brexit good trump success big scotland confer time news turnberri open today
+-1 |time hours_from_midnight:7 |meta link hashtags:1 |tokens benghazi lie hillari #crookedhillari famili
+1 |time hours_from_midnight:11 |meta double_quote hashtags:0 |tokens hillari made clinton trump obama" j donald us isi decis presid threaten along today
+1 |time hours_from_midnight:11 |meta single_quote double_quote hashtags:0 |tokens endors clinton thank donald much conduct "disqualifying" rumsfeld appreci
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens thank
+1 |time hours_from_midnight:2 |meta link single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:2 |meta single_quote double_quote double_quote_at hashtags:0 |tokens thank
+-1 |time hours_from_midnight:5 |meta link hashtags:1 |tokens #imwithy
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens great lou
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens hillari belief tax job refus economi crook say rais disast beyond
+1 |time hours_from_midnight:8 |meta double_quote hashtags:0 |tokens king great made fortun fix us bad debt"that debt countri businessman "the
+-1 |time hours_from_midnight:8 |meta single_quote hashtags:0 |tokens wage hillari clinton less polici border make safe drive american immigr open everyon
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens employe said club peopl within orlando gun guard obvious talk addit
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens @ major champion reaction proud first pressur mani dustin true amaz
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:1 |tokens
+-1 |time hours_from_midnight:3 |meta link single_quote hashtags:0 |tokens @ room show yesterday empti prior speech fact fail fraudul pack
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens even room hour show knew dishonest empti ny speech time go total start pack
+-1 |time hours_from_midnight:2 |meta link single_quote hashtags:1 |tokens trump donald game speech #trump2016 changer
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens see arizona #trump2016 soon
+-1 |time hours_from_midnight:1 |meta link hashtags:2 |tokens #americafirst #trump2016 arizona love thank
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens great make safe #americafirst america #trump2016
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens thank la #americafirst vega nevada #trump2016
+1 |time hours_from_midnight:7 |meta hashtags:0 |tokens readi get vega speak la
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens arizona join phoenix 4pm #americafirst #trump2016 today
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens #americafirst houston #trump2016 texa thank
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens #americafirst thank
+-1 |time hours_from_midnight:1 |meta link hashtags:0 |tokens amaz convent cleveland
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens arizona join phoenix 4pm #americafirst #trump2016 tomorrow
+-1 |time hours_from_midnight:7 |meta link hashtags:1 |tokens #americafirst thank
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens make america safe great
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens hillari safeti peopl orlando attack trade crook job follow deficit year biggest mani unhappi obama
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens great dalla last crowd texa state passion night ever spirit today amaz
+1 |time hours_from_midnight:10 |meta double_quote double_quote_at hashtags:1 |tokens
+-1 |time hours_from_midnight:2 |meta link hashtags:0 |tokens dalla texa thank
+-1 |time hours_from_midnight:4 |meta link hashtags:0 |tokens houston tx phoenix la vega az nv
+-1 |time hours_from_midnight:5 |meta link hashtags:0 |tokens houston join 7pm night ticket texa tomorrow
+-1 |time hours_from_midnight:8 |meta link double_quote hashtags:0 |tokens changer" "donald game speech trump
+-1 |time hours_from_midnight:8 |meta link hashtags:0 |tokens clinton 7yr polici rose support fast trade high job deficit horribl fix thank
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens interview @ 700 pm
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens post stori accur washington final
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens georgia thank #americafirst soon back atlanta
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens endors terrorist peopl nra watch gun fli list buy allow meet
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens choic tough directli fair peopl messag bias take press total smart
+1 |time hours_from_midnight:11 |meta link single_quote double_quote hashtags:0 |tokens @" right insinu media critic fell he "may donaldtrump
+-1 |time hours_from_midnight:2 |meta link hashtags:1 |tokens north thank #americafirst back soon greensboro carolina
+-1 |time hours_from_midnight:6 |meta link hashtags:0 |tokens georgia north wednesday tonight nevada saturday carolina
+-1 |time hours_from_midnight:6 |meta link hashtags:0 |tokens @ 241st thank birthday happi
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens america first
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens extraordinari tough get peopl screen admit without american cannot vigil countri smart must
+-1 |time hours_from_midnight:0 |meta link hashtags:1 |tokens join noon wednesday atlanta #trump2016 ticket
+-1 |time hours_from_midnight:3 |meta link single_quote hashtags:0 |tokens contd hillari fund stop crook say call saudi arabia countri hate must
+-1 |time hours_from_midnight:3 |meta link single_quote hashtags:0 |tokens contd clinton money foundat amount saudi countri arabia mani vast gave
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens even right peopl celebr orlando thought cheer savag werent
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens protect suspend spoke nation terror temporari includ islam tie ban speech america immigr
+-1 |time hours_from_midnight:4 |meta link hashtags:0 |tokens set trump campaign incred coverag record inaccur base report herebi
+-1 |time hours_from_midnight:4 |meta link hashtags:0 |tokens show washington dishonest fan presid post phoni obama
+-1 |time hours_from_midnight:6 |meta single_quote hashtags:0 |tokens case @ work dont fals pay bill bad articl say shoddi done sad
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens like beat mitt romney choke least dog person call presid fail racist chanc
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens richmond #trump2016 thank virginia
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens @ join thank #rtm2016 share discuss coalit valu #trump2016 honor today
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens tonight head join virginia richmond ticket #trump2016
+-1 |time hours_from_midnight:8 |meta link hashtags:1 |tokens hillari clinton describ puppet corpor crook video 2004 time donor chang #trump2016 pocahonta
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens faith head freedom visit dc coalit opo speak
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens box king great endors promot nice
+-1 |time hours_from_midnight:11 |meta link hashtags:0 |tokens nh va portsmouth join 8pm pittsburgh 11am 230pm richmond pa 3pm 6/10 6/11 fl tampa 6/13
+1 |time hours_from_midnight:12 |meta link double_quote double_quote_at hashtags:0 |tokens @" endors investig never someon presid
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens choic product goofi elizabeth nasti hope least one vp mouth us senat pocahonta warren
+1 |time hours_from_midnight:2 |meta link single_quote double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:2 |meta link hashtags:1 |tokens join pittsburgh richmond 6/10 6/11 #trump2016 tampa
+-1 |time hours_from_midnight:5 |meta link hashtags:0 |tokens terrorist tel support regard messag aviv attack condol
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens healthcar hillari clinton militari gun economi crook job disast plu els trade obama
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens like media dishonesti much expect big win primari amaz
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:0 |tokens great guy
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens sander hillari berni support play dislik realli crook way mani trade come must
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens thank
+1 |time hours_from_midnight:0 |meta hashtags:0 |tokens hillari clinton oppon would 16 million except one crook vote mani fact
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens thank
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens #trump2016 make america #americafirst great
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens thank
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens presid number time" one
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta single_quote hashtags:0 |tokens wont @ end gone anymor watch rate deep bad believ nobodi
+1 |time hours_from_midnight:12 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens comment reciev great thank feel could thr air speech electr vote ever review wonder
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens #trump2016 california thank
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens new #trump2016 thank mexico
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens dakota #trump2016 thank south
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens new #trump2016 thank jersey
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens enjoy @ tonight interview pm 1000
+-1 |time hours_from_midnight:2 |meta link hashtags:1 |tokens #makeamericagreatagain thank togeth
+1 |time hours_from_midnight:2 |meta single_quote hashtags:0 |tokens hillari byrn servic gari agent presid crook secret book believ tempera doesnt integr
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens excori pre hillari clinton describ servic bad violent agent crook secret tempera presid errat former
+-1 |time hours_from_midnight:10 |meta link hashtags:1 |tokens #dday june 1944 rememb 6 hero fallen
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens blow that bad 38000 month issu job messag report new massiv realli obama
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens hillari total ad badli wall fraud paid crook critic street fals women politifact
+1 |time hours_from_midnight:12 |meta hashtags:1 |tokens great finish like campaign less far money abl other countri #1 spend
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ like campaign peopl say much access zero without want media report knowledgetru
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens poor hillari clinton track destruct judgement record bad unfit leadership presid skill chang
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ lie show predict big garbag watch littl one late msm bias cnn
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ clinton network get door indign sometim behind hear act close news biasedthey refer
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:3 |tokens
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens attorney thank gonzal feel peopl gener way mani
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens report job worst sinc 2010
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens jose protect san terribl peopl support innoc lucki mayor job remain thug order peac
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens jose trump polic support burn flag american illeg attack laugh thug mani peac san
+1 |time hours_from_midnight:12 |meta link double_quote double_quote_at hashtags:2 |tokens
+1 |time hours_from_midnight:12 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens great champion ali dead muhammad 74 guy wonder miss truli
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens #makeamericagreatagain california thank red #caprimari
+-1 |time hours_from_midnight:8 |meta link single_quote double_quote hashtags:0 |tokens town "im trump" polic 100% proud behind chief im hispan border former
+1 |time hours_from_midnight:7 |meta single_quote hashtags:0 |tokens hillari love would get readi misrepres foreign lyin crook call polici posit clinton total
+1 |time hours_from_midnight:7 |meta hashtags:0 |tokens case pre trump exec dispos instruct litig much u interest open
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens even case great trump though civil win thousand judg unfair bias u diego review san
+1 |time hours_from_midnight:8 |meta single_quote hashtags:0 |tokens real hillari made clinton monster polici foreign crook mistak mani experi hrc mean
+1 |time hours_from_midnight:8 |meta single_quote hashtags:0 |tokens loss 38 usa 450 win wow cover isnt record stori verdict want presid lawsuit today
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens @ represent give polici knew watch littl foreign p notic proper nobodi ever anyth
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens sander hillari right clinton berni qualifi judgement crook bad said presid suffer
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens hillari talent natur make tempera bad crook zero decis abil presid clinton zilch
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:3 |tokens
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:0 |tokens thank
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens #makeamericagreatagain sacramento california thank
+-1 |time hours_from_midnight:0 |meta single_quote double_quote hashtags:0 |tokens week @ last terribl anoth never stori discredit today learn fail "reporter" wrote women
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens hillari fraud clinton risk use illeg crook stupid mail put countri mani miss public e
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens even jose join san #makeamericagreatagain 7pm california #trump2016 tomorrow
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens look anyth media make raised/gav bad bias belittl total veteran $5600000
+-1 |time hours_from_midnight:1 |meta hashtags:0 |tokens great admonish get crook confer credit 179 press hillari day today
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens interview @ tonight enjoy 10pme
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens even @ join sacramento 7pm california #trump2016 tomorrow
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens great group money veteran happi job honor mani beyond raised/gav amaz
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens finish group trump veteran confer wherein inform press got tower $5600000 raised/gav gave
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens tremend great money raised/given watch bad noth public amount got veteran
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens great good look number confer thing 1100 new mani happen poll news tower today trump
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens case gonzalo trump univers judg judgement easili bias curiel total summari
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens case diego gonzalo trump civil univers judg unfair bias curiel pick total obama hate san
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens day great everyon hope memori
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens hillari oppon would record million one crook broke vote instead sixteen primari
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens great memori make soon rememb america day
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta link single_quote double_quote double_quote_at hashtags:1 |tokens mia true rememb
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:0 |tokens great day dc
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:1 |tokens " better taken veterans" illeg care
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens endors candid patrol ever agent 16500 presidenti time nice border first
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens endors made patrol thank get wall agent 16500 necessari statement border
+1 |time hours_from_midnight:10 |meta single_quote hashtags:0 |tokens wont fenc secur wall southern wrong enhanc say much build want wh border yet bigger obama
+-1 |time hours_from_midnight:1 |meta hashtags:0 |tokens spoiler kristol actual suprem get independ bill dummi say good court run bye
+1 |time hours_from_midnight:2 |meta single_quote hashtags:0 |tokens spoiler candid strong allow parti lightweight novemb cant set want win republican indi smart
+-1 |time hours_from_midnight:2 |meta single_quote hashtags:0 |tokens control kristol tough rs parti bill cant loser wrong embarrass 2yr gop
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens good campaign behind 100% cash histori perhap stand news everyth b/c polit
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens head love thunder dc spirit see hear peopl great countri roll amaz
+-1 |time hours_from_midnight:3 |meta single_quote hashtags:1 |tokens american lost harbor thousand live sneak #mdw pearl attack presid japan he ever discuss obama
+-1 |time hours_from_midnight:3 |meta single_quote hashtags:0 |tokens dont campaign quot media work matter bias believ peopl phoni
+-1 |time hours_from_midnight:4 |meta single_quote hashtags:0 |tokens @ nomin dishonest back gop alway paper im front fail page
+-1 |time hours_from_midnight:4 |meta hashtags:0 |tokens prez style less media get phoni better much result money need new spend manag kick
+-1 |time hours_from_midnight:4 |meta single_quote hashtags:0 |tokens @ style dont beat peopl im hillari stori 73 fail mani 800 manag wrote
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens would get defend us enough countri 69 nice border treati
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens great thank crowd fresno ralli california #trump2016
+-1 |time hours_from_midnight:4 |meta link single_quote hashtags:0 |tokens account administr media screen social fail syrian refuge obama
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens tri @ greatli attend handl disrupt well job ralli thug fantast peac appreci
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens appreci @ kind love thank music msg mani gave shoutout friend told
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens diego 25000 thank wow california #trump2016 san
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens enjoy @ big tonight 800 special pm
+-1 |time hours_from_midnight:7 |meta single_quote hashtags:1 |tokens @ major good bill watch oreilli 8pme tonight #trump2016 special
+-1 |time hours_from_midnight:10 |meta link hashtags:2 |tokens #makeamericagreatagain plan energi america #trump2016 first
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens @ major hold run show far onto keep florida seat marco import poll data best senat
+-1 |time hours_from_midnight:2 |meta hashtags:2 |tokens enjoy @ featur #meetthetrump wife 7pme #trump2016 children
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens celebr #trump2016 1237
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens #trump2016 thank
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens goofi elizabeth get pretend sometim offens nativ american harvard refer find pocahonta warren
+-1 |time hours_from_midnight:6 |meta hashtags:1 |tokens even @ magic thank forgotten night mr last #trump2016 wonder
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens hillari clinton allow gener wh judgement crook bad cannot disast tempera report inspector
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens #trump2016 anaheim california thank
+-1 |time hours_from_midnight:6 |meta hashtags:0 |tokens great primari thank record washington gop broken say time vote histori honor behalf movement
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens mexican outsid insid mexico ralli flag fli protest beauti big thug new crimin
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens knock hillari good clinton deal berni 16 crook cant candid doesnt close smart
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens @ goofi elizabeth less practic us done action senat talk warren
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:2 |meta link hashtags:1 |tokens america #trump2016 thank
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens lookout terrorist lead tire normal peopl abl live american sick terror constantli
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens join center convent may wednesday anaheim #maga ticket 25th #trump2016
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens hillari want get allow protect increas crook cant smart 500% time radic america syrian refuge
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens hillari silent crook say islam radic horribl care oppress women
+-1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ everi network continu wrong 2 call dopey put shot yr singl panel
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens four hillari clinton would year qualifi proven judgement bad stupid presid
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens classroom hillari said school gun brought crook wrong want
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens serv hero thank men #armedforcesday countri true women
+-1 |time hours_from_midnight:7 |meta hashtags:0 |tokens hillari clinton libya danger foreign crook isi unleash syria intervent iraq reckless
+-1 |time hours_from_midnight:7 |meta link hashtags:0 |tokens make america great
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens even @ trump get neg closer two loser turn zero wors anti team rebutt
+1 |time hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens hillari get bodyguard protect gun surround arm crook want fulli rid yet
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens play total golf like fall tsa airport disast presid govern apart day wonder
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens tremend hillari ad person wall money dishonest crook amount street fals spend
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens hillari clinton amend gun vote abolish crook want owner essenti 2nd ever
+1 |time hours_from_midnight:0 |meta double_quote hashtags:0 |tokens @ par thank could 9th dramat 3 britain" statement new hole "the turnberri wonder
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens @ great made trump easi major win proud play colin turnberri look
+1 |time hours_from_midnight:1 |meta link single_quote double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:2 |meta hashtags:1 |tokens endors great thank deal @ disappoint wonder #trump2016 today mean
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens @ great kentucki cox #makeamericagreatagain lapierr #trump2016 day chri wayn
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens endors thank @ #trump2016 prior candid #2a ever honor first
+-1 |time hours_from_midnight:8 |meta hashtags:0 |tokens @ good everi make bad articl alway stori bias take fail sad unfair
+-1 |time hours_from_midnight:8 |meta double_quote hashtags:0 |tokens @ "trump thank entertainingmass extraordinari seen" candid popular countri ever unpredict
+-1 |time hours_from_midnight:9 |meta link hashtags:2 |tokens #secondamend @ hillari clinton cc privat event crook #2a discuss
+-1 |time hours_from_midnight:9 |meta link hashtags:0 |tokens see soon way
+1 |time hours_from_midnight:10 |meta single_quote hashtags:0 |tokens even hillari deal berni favor year four crook cant dem way rig close
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens hillari still run look mess fix fast isi chanc wild world total today around
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens even imagin hillari love would less year isi stamina crook zero china 4 presid russia
+1 |time hours_from_midnight:9 |meta double_quote hashtags:0 |tokens hillari said clinton qualified" berni "veri crook bad judgement" "not presid thing
+-1 |time hours_from_midnight:5 |meta link hashtags:0 |tokens respond @ strength thank terror 2017
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens great terrorist depart look get anoth pari attack sick vigil tough airplan hate yet smart like
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens reciev week court ad suprem justic well list number us next may potenti
+1 |time hours_from_midnight:1 |meta double_quote hashtags:0 |tokens ago claim life like @ joke never "made 29 stori low year happen becom pass" journalist
+-1 |time hours_from_midnight:1 |meta link hashtags:2 |tokens #trump2016 #makeamericagreatagain
+-1 |time hours_from_midnight:7 |meta link hashtags:1 |tokens #trump2016 louisiana thank
+-1 |time hours_from_midnight:7 |meta link hashtags:1 |tokens see arizona #makeamericagreatagain thank soon
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens begala @ head fraud clinton ad flunki pro knowingli hillari pac dopey commit paul super first
+1 |time hours_from_midnight:4 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens even great thank anticip oregon state percentag vote higher congratul movement
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens #makeamericagreatagain #trump2016 thank oregon
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens @ jeffrey trump would watch seven 7 1 cnn cant savag dont believ allow hater lord panel nice
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:1 |meta double_quote hashtags:0 |tokens megyn oregon well see us tonight live done movement" happili let "the ever
+1 |time hours_from_midnight:0 |meta hashtags:0 |tokens go question back final
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:0 |meta hashtags:0 |tokens dougla michael like
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens also
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:0 |meta single_quote double_quote double_quote_at hashtags:0 |tokens true
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens thank
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens great
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:0 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens tri said would come endlessli back re say call year compani barbara
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens woman name ny top unheard thank construct re job much nice barbara nasti gave
+1 |time hours_from_midnight:1 |meta double_quote hashtags:0 |tokens "in life us histori reason ignor presid worst obama virtue" primari polit
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens @ woman join brewer promin yesterday stori depict fail rowann
+1 |time hours_from_midnight:11 |meta double_quote hashtags:0 |tokens comment @ said "trump longer show weak watch repub record set time primaries" polit
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens sander run badli independ system berni dem rig treat
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens great thank #makeamericagreatagain new poll #trump2016
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens @ marco consider rubio vp mention wrong candid potenti report other
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens see georgia #trump2016 thank soon
+1 |time hours_from_midnight:5 |meta hashtags:0 |tokens plenti fals media hunt realli witch report prevail
+1 |time hours_from_midnight:5 |meta hashtags:0 |tokens @ use name career proud dishonest given refus fail help
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens real @ clinton media dishonest write stori doesnt fail total women
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:1 |tokens thank
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens thank
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ use hit name lame help piec refus women laugh mani womeni everyon gave
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ hit anoth impress piec noth treat joke fail found women yet wrote nice
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ word thank logic well morn deliv total nice
+1 |time hours_from_midnight:2 |meta link double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:9 |meta link hashtags:0 |tokens new great poll thank
+1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens hillari clinton deal berni crazi isi crook cant other china take go close russia
+-1 |time hours_from_midnight:5 |meta link hashtags:1 |tokens @ great mitch dc mcconnel meet republican #trump2016 leader
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens @ great work well dc realli thing leadership republican #trump2016 day
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens audit @ return would routin tax releas interview elect complet told
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens #trump2016 #makeamericagreatagain
+1 |time hours_from_midnight:10 |meta single_quote hashtags:0 |tokens sander hillari hit dont crook hard watch berni crazi want time love come yet
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens berni hillari look get readi big lose virginia crazi crook novemb bad nebraska west win
+-1 |time hours_from_midnight:1 |meta link hashtags:2 |tokens #trump2016 nebraska #makeamericagreatagain thank
+-1 |time hours_from_midnight:0 |meta link hashtags:2 |tokens west #trump2016 #makeamericagreatagain thank virginia
+-1 |time hours_from_midnight:9 |meta link hashtags:3 |tokens west #makeamericagreatagain virginia #votetrump #trump2016 today
+-1 |time hours_from_midnight:9 |meta link hashtags:3 |tokens #trump2016 nebraska #makeamericagreatagain #votetrump today
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens posit peopl never vp press take ask tell
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens @ hillari ate rosi odonnel commerci crook viciou cake
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens hillari exactli fals media tax keep crook rais narr want opposit push strong
+1 |time hours_from_midnight:11 |meta hashtags:1 |tokens @ #repmikekelli word thank great job morn nice
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens great get make nebraska vote america
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens great get west make virginia vote america
+1 |time hours_from_midnight:2 |meta link double_quote double_quote_at hashtags:3 |tokens
+-1 |time hours_from_midnight:0 |meta hashtags:0 |tokens hillari clinton border support million democrat crook want run open complet
+-1 |time hours_from_midnight:0 |meta hashtags:0 |tokens sarah legaci met behind nebraska kill immigr famili illeg horribl amaz root courag leav
+-1 |time hours_from_midnight:1 |meta hashtags:0 |tokens lie hillari goofi clinton elizabeth career flunki nativ american base total warren
+-1 |time hours_from_midnight:1 |meta hashtags:0 |tokens properli elizabeth nativ american record see goofi let she fraud check say warren
+-1 |time hours_from_midnight:1 |meta hashtags:0 |tokens hillari goofi clinton elizabeth defeat mate choos corrupt run hope warren
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens @ respons
+-1 |time hours_from_midnight:6 |meta hashtags:0 |tokens @ hillari run third parti hard crook candid hear fade guarante push rapidli win
+-1 |time hours_from_midnight:6 |meta single_quote hashtags:0 |tokens endors insight crash power work initi jeb bush much joe kasich scarborough john didnt
+1 |time hours_from_midnight:12 |meta single_quote hashtags:0 |tokens play sander hillari bad berni say sad judgement crook zero leadership abil constantli card women
+1 |time hours_from_midnight:12 |meta single_quote hashtags:0 |tokens said parti someth million inherit wrong voter ryan paul republican didnt special
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:2 |tokens
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens endors great make first except ryan yesterday put mani paul america must
+1 |time hours_from_midnight:10 |meta single_quote double_quote hashtags:0 |tokens "donald said talent trump ive peopl governor one seen" perri rick presid run ever thank
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens wage hillari clinton bring job miner back crook unlik want go destroy america
+-1 |time hours_from_midnight:3 |meta single_quote hashtags:1 |tokens thank big west tuesday virginia keep vote let win go #trump2016
+-1 |time hours_from_midnight:1 |meta double_quote hashtags:0 |tokens business" hillari said minersco coal put apolog crook believ lot go compani whole "we
+-1 |time hours_from_midnight:1 |meta link hashtags:2 |tokens join omaha #makeamericagreatagain oregon eugen nebraska #trump2016 tomorrow
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens grill made love trump bowl happi taco #cincodemayo hispan tower best
+-1 |time hours_from_midnight:8 |meta link hashtags:0 |tokens charleston join tomorrow wv
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens interview @ enjoy 730
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ good 700 morn interview america
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens interview @ enjoy 615
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens sander hillari run would berni rather crook book cook clinton happen
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens even sander great beat hillari dysfunct system crook interest rig total
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens pleas @ correct virginia
+-1 |time hours_from_midnight:1 |meta link hashtags:2 |tokens #makeamericagreatagain indiana #trump2016 thank
+1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens stop said money consist win drop ted wast lyin cruz doesnt race time indiana must
+1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens sort function made presidenti wow ted crazi cant realli lyin cruz pressur charg wacko went sad today
+-1 |time hours_from_midnight:6 |meta link hashtags:2 |tokens make america great #inprimari #votetrump
+-1 |time hours_from_midnight:8 |meta link hashtags:3 |tokens #votetrump 6pm close poll #trump2016 #inprimari
+-1 |time hours_from_midnight:9 |meta link hashtags:1 |tokens america #trump2016 thank
+-1 |time hours_from_midnight:10 |meta link hashtags:2 |tokens make america great #inprimari #votetrump
+-1 |time hours_from_midnight:11 |meta link hashtags:2 |tokens make america great #inprimari #votetrump
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens short ralli soon see bend big indiana south
+-1 |time hours_from_midnight:3 |meta hashtags:1 |tokens enjoy @ tonight 10pme interview #inprimari
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens america #makeamericagreatagain thank
+-1 |time hours_from_midnight:3 |meta link hashtags:3 |tokens thank get #makeamericagreatagain #votetrump #inprimari indiana tomorrow carmel
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens endors great receiv holtz lou guy #trump2016 honor #inprimari
+-1 |time hours_from_midnight:8 |meta link hashtags:2 |tokens hillari clinton #trump2016 #makeamericagreatagain crook defeat 11/8/2016
+-1 |time hours_from_midnight:10 |meta hashtags:0 |tokens great look campaign knight support thing bobbi fun indiana day today amaz
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens voter mexican burn flag wave everybodi protest want american america proudli talk first
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens mike strong trump usa bring job donald back hoosier state penc taken stanc gov thank
+1 |time hours_from_midnight:11 |meta double_quote hashtags:0 |tokens hillari said clinton "deal men use poorli crook done reservation" actual get
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens interview @ enjoy 730
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens join 4pm carmel indiana tomorrow #inprimari
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens thank wayn indiana #trump2016 #inprimari fort
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens indiana haut #makeamericagreatagain thank terr
+-1 |time hours_from_midnight:4 |meta single_quote hashtags:0 |tokens even @ hillari good anyth beat never bushi air jeb say shouldnt fail
+-1 |time hours_from_midnight:8 |meta link hashtags:1 |tokens #fn @ wallac enjoy day chri year throughout anniversari 20th
+-1 |time hours_from_midnight:8 |meta hashtags:0 |tokens short ralli haut soon see big indiana terr
+-1 |time hours_from_midnight:11 |meta link hashtags:1 |tokens indiana #trump2016 thank
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens great monday ralli make see four sunday indiana america
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens comment @ great thank job today nice
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens deleg #maga trump lock #trump2016 gop delawar
+1 |time hours_from_midnight:7 |meta hashtags:0 |tokens job great nobodi get almost make zero america economi beat bad wors growth quarter
+1 |time hours_from_midnight:9 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta double_quote hashtags:0 |tokens "protesters" profession strongli enforc california dealt thug mani crimin law
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ woman incred alway anderson mother amaz
+1 |time hours_from_midnight:6 |meta hashtags:0 |tokens deleg win wast system time effort rig ballot 1001 first
+-1 |time hours_from_midnight:8 |meta link hashtags:1 |tokens indiana #trump2016 thank
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens also hillari clinton enabl person time dishonest great one crook perhap presid run ever
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens made ridicul deal blown wow 42 lyint dead arriv 1 cruz dumb kasich john
+-1 |time hours_from_midnight:5 |meta link hashtags:1 |tokens america #trump2016 thank
+-1 |time hours_from_midnight:6 |meta link hashtags:2 |tokens #makeamericagreatagain maryland #votetrump let
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens #votetrump delawar 8pm
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens great thank island yesterday rhode #votetrump day
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens connecticut six #votetrump hour left
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens go pennsylvania #votetrump let
+-1 |time hours_from_midnight:8 |meta link hashtags:0 |tokens thank barron incred vanessa support jare eric lara melania ivanka tiffani
+-1 |time hours_from_midnight:11 |meta link hashtags:1 |tokens @ #trump2016 thank
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens pact great deal almost joke fall dead strain cruz dumb kasich honor apart
+-1 |time hours_from_midnight:1 |meta link hashtags:2 |tokens barr thank pennsylvania #makeamericagreatagain wilk #trump2016
+-1 |time hours_from_midnight:2 |meta link hashtags:1 |tokens area pennsylvania vibrant #makeamericagreatagain sad manufactur pass
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens thank pennsylvania west #votetrump chester #paprimari
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens thank island rhode #votetrump warwick #riprimari
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens 1 38 show beat weak team ted two one lyin cruz unabl kasich collus
+1 |time hours_from_midnight:3 |meta single_quote hashtags:0 |tokens desper group sad ted dead happi lyin mathemat interest kasich donor total special
+1 |time hours_from_midnight:3 |meta single_quote hashtags:0 |tokens republican nomin collud wow get ted keep lyin desper kasich go announc order
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens @ irrelev readership happi badli paper hear way fail serious becom
+1 |time hours_from_midnight:10 |meta double_quote double_quote_at hashtags:0 |tokens deleg bribery"
+1 |time hours_from_midnight:10 |meta link double_quote double_quote_at hashtags:2 |tokens
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens major good look ralli tuesday thing afternoon maryland
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ great job advic thank
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens @ great prove commentari tonight correct smart
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens hillari poll hit ad neg rock drop soon crook kasich clinton john win like
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens great look campaign big tuesday connecticut vote day
+1 |time hours_from_midnight:0 |meta hashtags:0 |tokens @ great job report rate today increas congratul amaz
+-1 |time hours_from_midnight:4 |meta link hashtags:0 |tokens lynn great thank read proud ryan ny stori time
+-1 |time hours_from_midnight:5 |meta link hashtags:3 |tokens #makeamericagreatagain #trumptrain #trump2016 thank delawar
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens bridgeport #trump2016 connecticut #makeamericagreatagain thank
+-1 |time hours_from_midnight:8 |meta link hashtags:2 |tokens #trump2016 #makeamericagreatagain connecticut waterburi thank
+-1 |time hours_from_midnight:10 |meta link hashtags:1 |tokens video #makeamericagreatagain
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens stolen campaign job anoth stop state fast day connecticut countri spend
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens pennsylvania #trump2016 thank
+-1 |time hours_from_midnight:0 |meta link hashtags:1 |tokens great thank #trump2016 wednesday back see indiana soon everyon
+-1 |time hours_from_midnight:1 |meta link hashtags:2 |tokens thank #makeamericagreatagain soon see california #trump2016
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens #makeamericagreatagain @ #trump2016 thank
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens thank incred support #makeamericagreatagain maryland #trump2016 movement
+-1 |time hours_from_midnight:9 |meta hashtags:0 |tokens talent greatli numer princ met occas guy wonder miss amaz
+-1 |time hours_from_midnight:2 |meta single_quote hashtags:0 |tokens said get drop ted cant lyin cruz 1237 leav kasich couldnt
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens elimin race said get ted reason cruz mathemat kasich senat think
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens town @ major melania wife rest enjoy7am famili fun hall hope
+-1 |time hours_from_midnight:2 |meta link hashtags:1 |tokens great thank conclud back soon way maryland #trump2016 day
+-1 |time hours_from_midnight:1 |meta link hashtags:0 |tokens excit @ terrif campaign state indiana meet wonder
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens thank #makeamericagreatagain soon back indiana #trump2016
+-1 |time hours_from_midnight:9 |meta link hashtags:1 |tokens indiana #trump2016
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens spoiler hillari race beat win never ted thing cruz mathemat nice
+1 |time hours_from_midnight:3 |meta link double_quote double_quote_at hashtags:0 |tokens wow nice realli
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens new never forget thank york
+1 |time hours_from_midnight:0 |meta hashtags:0 |tokens @ said amaz terribl neg bill watch thing angri hater imposs panel
+1 |time hours_from_midnight:0 |meta double_quote double_quote_at hashtags:3 |tokens
+1 |time hours_from_midnight:1 |meta link double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:0 |tokens new state york now" mind"
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens control @ 900 boss interview rig republican primari talk
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens fantast
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:0 |tokens great
+1 |time hours_from_midnight:1 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:0 |tokens thank
+-1 |time hours_from_midnight:0 |meta link hashtags:2 |tokens syracus join #nyprimari 4/16 watertown #trump2016 3pm weekend noon
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens @ #trump2016 thank
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens america #trump2016 thank
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens make america great
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens syracus join #trump2016 york new #nyprimari saturday
+1 |time hours_from_midnight:4 |meta single_quote hashtags:0 |tokens march colorado big friday boss protest let afternoon vote take dont
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens voter colorado would win knew june rule boss pol race shortli enter chang
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens great colorado peopl preclud million state one vote stori biggest happen polit
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens enjoy @ 10pm pennsylvania tonight interview #trump2016
+-1 |time hours_from_midnight:11 |meta link hashtags:2 |tokens #trumptrain join pittsburgh tonight 7pme ticket #trump2016
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens #trump2016 #makeamericagreatagain
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens #trump2016 #makeamericagreatagain
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ great eastern 1200 tonight rebroadcast famili wonder
+-1 |time hours_from_midnight:2 |meta link hashtags:1 |tokens new #newyorkvalu love york
+-1 |time hours_from_midnight:8 |meta link hashtags:2 |tokens thank pennsylvania #makeamericagreatagain soon see california york new maryland #trump2016
+-1 |time hours_from_midnight:8 |meta link hashtags:2 |tokens deleg 12 confirm offici winner #makeamericagreatagain missouri #trump2016 addit
+-1 |time hours_from_midnight:10 |meta link hashtags:2 |tokens great thank wow #newyorkvalu york new poll #trump2016 support
+-1 |time hours_from_midnight:1 |meta link hashtags:2 |tokens thank #makeamericagreatagain albani york new #trump2016
+-1 |time hours_from_midnight:1 |meta link hashtags:2 |tokens join #trump2016 avail ny rome ticket #nyprimari tomorrow
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens #trumptrain join love start time albani live york 7pme new #trump2016 tune
+-1 |time hours_from_midnight:2 |meta link hashtags:0 |tokens writer good piec interest @
+-1 |time hours_from_midnight:4 |meta hashtags:0 |tokens excit crowd albani leav york new massiv expect
+-1 |time hours_from_midnight:4 |meta single_quote hashtags:0 |tokens @ dont vulgarian liber bill oreilli media total think complet
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens peopl great thank
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens thank
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens interview @ enjoy 700
+1 |time hours_from_midnight:0 |meta hashtags:0 |tokens politician colorado peopl away biggest taken stori allow vote phoni polit
+1 |time hours_from_midnight:0 |meta hashtags:0 |tokens great total colorado possibl peopl never unfair anger state vote got republican primari
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens sort non bad campaign get win offer deleg repres state cruz vote goodi system
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ pay cover us nation inaccur want sucker purpos defens
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:3 |tokens big crowd
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:2 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:2 |meta link double_quote double_quote_at hashtags:0 |tokens thank
+1 |time hours_from_midnight:2 |meta link double_quote double_quote_at hashtags:0 |tokens sad
+1 |time hours_from_midnight:12 |meta link double_quote double_quote_at hashtags:0 |tokens wow
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens sander hillari clinton make berni say base decis abil presid go along unqualifi
+1 |time hours_from_midnight:3 |meta single_quote hashtags:0 |tokens deleg person far million fight shame isnt anyon els vote mani still must
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:2 |tokens
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:0 |tokens thank
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens great wisconsin monday join peopl make stop crowd melania big mani america day
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens great wisconsin thank west alli #votetrumpwi night #wiprimari
+-1 |time hours_from_midnight:0 |meta hashtags:2 |tokens town @ wisconsin enjoy #makeamericagreatagain #trump2016 hall
+-1 |time hours_from_midnight:1 |meta hashtags:0 |tokens @ great club win proud go congratul
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens @ wisconsin #wiprimari us milwauke 7pme join #trump2016 tomorrow
+-1 |time hours_from_midnight:6 |meta link single_quote hashtags:2 |tokens thank miss #makeamericagreatagain kati #trump2016 diner
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens thank pennsylvania #makeamericagreatagain york new #trump2016
+1 |time hours_from_midnight:10 |meta single_quote double_quote double_quote_at hashtags:1 |tokens love dont people" that peopl #trump2016" game much exactli care
+-1 |time hours_from_midnight:11 |meta link hashtags:2 |tokens #trump2016 thank #wiprimari
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:2 |tokens
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens enjoy @ wallac morn chri
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens great wisconsin thank tuesday april #votetrump america eau 5th clair make
+-1 |time hours_from_midnight:3 |meta hashtags:1 |tokens enjoy @ morn interview #trump2016 tomorrow
+-1 |time hours_from_midnight:1 |meta link hashtags:6 |tokens #eauclair great wisconsin thank #wausau arriv #racin #trump2016 day #trumptrain #wiprimari
+-1 |time hours_from_midnight:4 |meta hashtags:0 |tokens @ expert nuclear explain attack asham allow make
+-1 |time hours_from_midnight:4 |meta hashtags:0 |tokens @ use full word thank would nuclear never fox statement agre today nice
+-1 |time hours_from_midnight:4 |meta hashtags:1 |tokens @ great trump #johnryd deleg parti gener well counsel worth tn rnc unifi meet honor
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens join #wiprimari monday milwauke april 4th ticket #trump2016
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens great elect deal home big make back trade bring job immigr factor wisconsin
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens @ million like would show beat cover drop stop rate rock interview h
+-1 |time hours_from_midnight:2 |meta link hashtags:0 |tokens make america great
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens wisconsin ad soon air see radio new #trump2016 today #wiprimari
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens tri deleg said ad club plu 465 cruz growth kasich 739 143
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens extort incorrect attempt ad club group put dumb ask wisconsin growthwhich $1000000 mathwhat
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens #trump2016 #makeamericagreatagain
+-1 |time hours_from_midnight:2 |meta link hashtags:1 |tokens new #trump2016 thank york
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens wisconsin thank tuesday next april #votetrump 5th #wiprimari
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens @ look parti bring togeth forward meet happen priebu nice
+-1 |time hours_from_midnight:11 |meta link hashtags:1 |tokens strength #trump2016 trump doctrin peac
+1 |time hours_from_midnight:2 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:2 |meta single_quote double_quote double_quote_at hashtags:0 |tokens great
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens #wiprimari #trump2016 wisconsin thank appleton
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens @ trump #makeamericagreatagain wisdom pick #trump2016 congratul
+-1 |time hours_from_midnight:7 |meta link hashtags:0 |tokens pleas wisconsin 2005 young keep thought melissa prayer miss
+-1 |time hours_from_midnight:8 |meta link hashtags:2 |tokens new #trump2016 #makeamericagreatagain thank york
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens thrown @ like tv nasti dog fire nbc got nice
+-1 |time hours_from_midnight:0 |meta single_quote hashtags:2 |tokens @ great certifi trump show win mo deleg least increas vote state 12 365 #s new announc final
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens #trump2016 thank
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens bruis trump campaign defend report manag charg
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens #makeamericagreatagain thank
+-1 |time hours_from_midnight:5 |meta link hashtags:0 |tokens make america great
+-1 |time hours_from_midnight:5 |meta link hashtags:0 |tokens confer hand touch leav report news
+-1 |time hours_from_midnight:5 |meta link hashtags:0 |tokens tape statement report found chang facil tune
+-1 |time hours_from_midnight:5 |meta link hashtags:0 |tokens victori question confer shout allow press grab charg
+1 |time hours_from_midnight:8 |meta single_quote hashtags:0 |tokens episod look peopl tape arent statement report found happen earliest
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ hillari show berni cruz vs kill new poll come
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens town @ shouldnt oppon show wow mayb unfair realli tonight report one noth hall side
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens great strong tough asap make secur vigil game need america border smart must
+1 |time hours_from_midnight:9 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens europ know civil peopl destruct stop us sad take syria immedi must
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens 5000 fighter fix infiltr alon us europ also isi mani problem announc told
+1 |time hours_from_midnight:9 |meta single_quote double_quote double_quote_at hashtags:0 |tokens dead show
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens @ great ever explain time job wast walter women disast left got total barbara sinc view
+1 |time hours_from_midnight:9 |meta double_quote hashtags:0 |tokens @ constantli show tv ask soon thr badli "no" go fail air tell taken
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens hillari clinton work fast terror time year solv problem chang
+1 |time hours_from_midnight:10 |meta link double_quote double_quote_at hashtags:1 |tokens #votetrump2016 "
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens right often wall media muslim build critic oil nato immigr illeg take amaz
+1 |time hours_from_midnight:10 |meta double_quote hashtags:0 |tokens @ said brussel mess "hell articl critic right rememb fail hole" wrote recent
+-1 |time hours_from_midnight:10 |meta hashtags:0 |tokens politician like make develop watch isi better thing cruz year mani problem graham noth
+1 |time hours_from_midnight:10 |meta single_quote hashtags:0 |tokens @ alik politician ted two lyin cruz much action isi noth talk
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens pre @ run get tv neg show zero beat badli mani talk amaz
+1 |time hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens pay disproportion share renegoti cost nato time
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens obsolet well focu focus current thing nato terror chang addit must
+1 |time hours_from_midnight:3 |meta link double_quote double_quote_at hashtags:2 |tokens @ " pictur thousand #lyingt worth #nevercruz words"
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens make america great
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ arizona thank win could histor without done joe want help
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens deleg 1237 get clinch unfair race believ cleveland mani
+1 |time hours_from_midnight:4 |meta single_quote hashtags:0 |tokens endors $150000000 ted spent hurt jeb noth fraction lyin got think first
+1 |time hours_from_midnight:10 |meta single_quote hashtags:0 |tokens gq anyth photo that ted deni lyin cruz call melania model post
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens great court suprem justic parti pave novemb togeth way big mani win republican come hope
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens arizona thank anticip win never much bigger forget
+-1 |time hours_from_midnight:3 |meta link hashtags:3 |tokens #trumptrain arizona #trump2016 thank #westerntuesday
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens despit hillari muslim way brussel open incompet weak flow attack let want horribl border today
+1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens shoot use ad gq pictur spill ted bean lyin cruz melania wife care
+-1 |time hours_from_midnight:2 |meta hashtags:1 |tokens pre belong cuba seriou get washington game emerg leav basebal #potu home immedi obama
+1 |time hours_from_midnight:5 |meta hashtags:0 |tokens group form get stronger weak shame other terror obama correct polit
+-1 |time hours_from_midnight:5 |meta link hashtags:4 |tokens @ #makeamericagreatagain messag #utcaucu #utahcaucu #trump2016
+-1 |time hours_from_midnight:5 |meta link hashtags:4 |tokens @ #azprimari #makeamericagreatagain messag #arizonaprimari #trump2016
+-1 |time hours_from_midnight:6 |meta link hashtags:6 |tokens #azprimari #arizonaprimari #americansamoa #utcaucu #votetrump video #utahcaucu
+-1 |time hours_from_midnight:6 |meta hashtags:1 |tokens heart terribl stop tragedi #brussel mad victim prayer go must
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens make america great
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens sound ridicul look make cuba brussel badli especi speech treat presid shadow obama
+-1 |time hours_from_midnight:12 |meta hashtags:0 |tokens differ rememb brussel anymor safe us place beauti vigil world smart must
+1 |time hours_from_midnight:11 |meta link single_quote double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:2 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:4 |meta single_quote hashtags:0 |tokens even land pope deal cuba wasnt big wow castro other greet presid raul respect obama
+1 |time hours_from_midnight:5 |meta hashtags:0 |tokens mar big tonight dinner lago palm republican beach
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:5 |meta single_quote hashtags:0 |tokens back @ show fight bad cant overr wrong thing say allow constantli anchor highli
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens media shut curs horrend never punch sad blame protest ralli roads/door scream
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens interview @ enjoy morn
+1 |time hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:4 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:3 |meta link hashtags:4 |tokens #azprimari arizona thank get tuesday #makeamericagreatagain #votetrump #trump2016
+-1 |time hours_from_midnight:9 |meta link hashtags:2 |tokens join #makeamericagreatagain #trump2016 utah lake us tonight citi salt
+1 |time hours_from_midnight:0 |meta hashtags:0 |tokens involv hillari clinton profession life corrupt
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens make america great
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens pleas @ accord love etc explain debat dummi board editori 11 drudg
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ good especi anymor say bad editori news nobodi math care
+1 |time hours_from_midnight:11 |meta single_quote double_quote hashtags:0 |tokens @ 8646551trump knock 7533692" 3 16apolog say editori vote "clinton total primari oppon
+1 |time hours_from_midnight:12 |meta single_quote hashtags:0 |tokens liar dont lost big evangel ted cruz lyin reason much vote toler problem smart
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens @ hit show defend bad complain crazi metough total yet piec
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ great beat peopl time question debat ask cruz mani cancel news addit
+1 |time hours_from_midnight:10 |meta single_quote hashtags:0 |tokens @ desper last show win get ted supposedli lie lyin crazi wors cruz night cant
+1 |time hours_from_midnight:10 |meta single_quote hashtags:0 |tokens loss sad trump campaign parti mitt stuart romney histor tell steven fail republican manag
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens #trump2016 thank missouri
+1 |time hours_from_midnight:6 |meta hashtags:0 |tokens wow missouri
+1 |time hours_from_midnight:7 |meta hashtags:0 |tokens @ wish big make well yesterday debat speech night 5 win everyon day
+-1 |time hours_from_midnight:7 |meta hashtags:0 |tokens endors appreci thank support florida governor scott rick greatli
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ great televis job morn side glad
+1 |time hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens interview @ 830 enjoy
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens interview @ 740 enjoy
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens interview @ 715
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ last win night 700 big interview
+1 |time hours_from_midnight:5 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:1 |tokens
+-1 |time hours_from_midnight:1 |meta link hashtags:3 |tokens #supertuesday #trump2016 illinoi #makeamericagreatagain thank
+-1 |time hours_from_midnight:1 |meta link hashtags:3 |tokens #supertuesday north thank #makeamericagreatagain #trump2016 carolina
+1 |time hours_from_midnight:0 |meta hashtags:0 |tokens @ good network unwatch watch realli crazi night news local
+-1 |time hours_from_midnight:0 |meta link hashtags:3 |tokens #supertuesday #makeamericagreatagain #trump2016 florida thank
+-1 |time hours_from_midnight:0 |meta link hashtags:3 |tokens thank mariana islands#supertuesday #makeamericagreatagain northern #trump2016
+1 |time hours_from_midnight:1 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:1 |meta single_quote double_quote double_quote_at hashtags:0 |tokens wise megyn worri crazi everyon dont
+1 |time hours_from_midnight:1 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:1 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:1 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens despit word ad neg florida spent number record amount massiv soon phoni victori
+1 |time hours_from_midnight:5 |meta hashtags:0 |tokens complaint name variou fals peopl florida say place lot ballot hope
+1 |time hours_from_midnight:8 |meta double_quote hashtags:0 |tokens back us keep bring job leav economi els compani nobodi "sing"
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens mexico kasich lose weak ford need job other immigr mani illeg ohio strong border
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens like kasich watch second debat put innoc rememb act interview guy john nice
+-1 |time hours_from_midnight:11 |meta link hashtags:3 |tokens #supertuesday #trumptrain north florida #votetrump missouri ohio illinoi carolina
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens north lost mexico win 400000 2000 back manufactur etc job go ohio carolina bring sinc 300000
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens shut right group organ chicago amend peopl energ america thug mani total first
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens great dlg thank ralph governor torr news #trump2016
+-1 |time hours_from_midnight:2 |meta link hashtags:0 |tokens endors great woman receiv much conserv schlafli truli phylli mean
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens thank #makeamericagreatagain st loui missouri #trump2016
+1 |time hours_from_midnight:4 |meta single_quote hashtags:0 |tokens @ great money zuckerman much likewis mort busi dopey lose go news rumor
+-1 |time hours_from_midnight:7 |meta link hashtags:0 |tokens
+-1 |time hours_from_midnight:8 |meta double_quote hashtags:0 |tokens @ ben better" god make "i us carson believ peopl concur chang dr
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens thank #gopdeb
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens #makeamericagreatagain america #trump2016 thank
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:1 |tokens thank
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ wow bias disgust report total correct
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens anoth politician dishonest #lightweightsenatormarcorubio
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens tri ad club neg nasti million dollar loser one growth shake put total phoni
+-1 |time hours_from_midnight:7 |meta hashtags:1 |tokens #trump2016 thank hawaii
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens even great like would support wonder everyon thank
+-1 |time hours_from_midnight:1 |meta hashtags:1 |tokens mississippi #trump2016 thank
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens #trump2016 thank
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens mississippi word trump money michigan well spent go wow jupit
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens @ total last lead anoth / one discredit hear sc poll phoni came
+1 |time hours_from_midnight:4 |meta hashtags:1 |tokens politician televis neg watch commerci paid boss #mediafraud rememb total
+-1 |time hours_from_midnight:7 |meta link hashtags:0 |tokens mississippi michigan hawaii idaho
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens #trump2016 #votetrumpid
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens #trump2016 #votetrumphi
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens #trump2016 #votetrumpmi
+-1 |time hours_from_midnight:7 |meta link hashtags:2 |tokens #trump2016 #votetrumpm
+1 |time hours_from_midnight:7 |meta hashtags:0 |tokens quit blew ran spokesmen mitt romney sad zero lindsey presid got graham chanc
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens interest campaign self paid one fund candid rememb special bought
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens ethic earn work sun lack rubio vote need say gravita presid sentinel experi
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens make america great
+-1 |time hours_from_midnight:9 |meta link hashtags:0 |tokens @ thank
+-1 |time hours_from_midnight:10 |meta link hashtags:0 |tokens mississippi join get michigan hawaii video today vote idaho movement
+-1 |time hours_from_midnight:2 |meta link hashtags:0 |tokens extort said forget club peopl million growth neg ask went $1
+-1 |time hours_from_midnight:2 |meta link hashtags:0 |tokens syrian cruz ted welcom refuge
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens great peopl ill hotel hawaii soon employ honolulu vote mani
+-1 |time hours_from_midnight:0 |meta hashtags:0 |tokens enjoy @ 10pm est tonight interview
+-1 |time hours_from_midnight:1 |meta link hashtags:0 |tokens marco ad rubio lightweight new senat concern
+-1 |time hours_from_midnight:2 |meta link hashtags:0 |tokens protect love thank potato better market presid nobodi grow idaho
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens posit #trump2016 visa #makeamericagreatagain
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens trump univers #gopdeb better rate busi bureau report
+-1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens even use own ad ever helicopt drug think compani rubio dont put guy true dealer pilot
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens #trump2016 portland main #makeamericagreatagain thank
+-1 |time hours_from_midnight:8 |meta hashtags:1 |tokens great land look hour peopl see 2 way forward portland main #trump2016
+-1 |time hours_from_midnight:9 |meta single_quote hashtags:2 |tokens @ #trumptrain ben forget join never #gopdeb tonight follow miss hope
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens championship golf trump miami watch world go doral
+1 |time hours_from_midnight:10 |meta single_quote double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:10 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens court trump easi student win could approv easili rate u settl want go lawsuit phoni 98%
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens ago endors mitt romney beg four year
+1 |time hours_from_midnight:11 |meta single_quote double_quote hashtags:0 |tokens hillari "trump" clinton beat win mitt romney one doesnt know want part
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens even great marco would show peopl never florida record rubio worst joke vote guy senat
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens peopl million brought kill dem want parti go republican establish movement
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens good elect look get mitt messeng romney two go candid time fail republican tell like
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens group ad cruzwhen fals pol million dollar spent tv rubio see interest puppet think special
+1 |time hours_from_midnight:3 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens voter parti million sad record leav taken new republican care
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens #trump2016 video #makeamericagreatagain
+-1 |time hours_from_midnight:1 |meta link hashtags:0 |tokens love would get parti see unifi togeth video republican everyon
+-1 |time hours_from_midnight:1 |meta hashtags:0 |tokens desper barrack anoth move easili beaten 2/2 obama man
+-1 |time hours_from_midnight:1 |meta hashtags:0 |tokens 1/2 presidenti mitt romney confer critic candid fail news tomorrow
+-1 |time hours_from_midnight:1 |meta hashtags:0 |tokens @ marco hit trump gone far 49% nasti number turn rubio interest lightweight love poll sinc
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:3 |tokens true
+1 |time hours_from_midnight:3 |meta single_quote hashtags:0 |tokens voter creat parti million stronger see bring cant larger new republican leader
+-1 |time hours_from_midnight:5 |meta link hashtags:1 |tokens enjoy @ #ontherecord wife w/ tonight 7pme
+1 |time hours_from_midnight:6 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:6 |meta hashtags:0 |tokens even marco last lost beat big time virginia spent rubio much night desper angri boss money
+1 |time hours_from_midnight:6 |meta hashtags:0 |tokens marco scam would hous show florida sale credit rubio anyon lightweight vote senat check card
+1 |time hours_from_midnight:7 |meta hashtags:0 |tokens control politician ad tv peopl million $25 mislead puppet fraudul interest spend special
+1 |time hours_from_midnight:12 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:12 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta link double_quote double_quote_at hashtags:0 |tokens @ " nearli nomination" say imposs rubio path gop
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens true
+-1 |time hours_from_midnight:5 |meta hashtags:2 |tokens #supertuesday vermont #trump2016 thank
+-1 |time hours_from_midnight:4 |meta hashtags:2 |tokens #supertuesday arkansa #trump2016 thank
+-1 |time hours_from_midnight:1 |meta hashtags:2 |tokens #supertuesday #trump2016 thank virginia
+-1 |time hours_from_midnight:1 |meta hashtags:2 |tokens #supertuesday alabama #trump2016 thank
+-1 |time hours_from_midnight:1 |meta hashtags:2 |tokens #supertuesday #trump2016 thank tennesse
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens real great built littl start estat busi asset world compani best amaz
+1 |time hours_from_midnight:8 |meta single_quote hashtags:0 |tokens total like wish $200 million father say fred start rubio busi fabric lightweight wonder didnt gave
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens great work amaz win hard watch democrat state version peopl fun republican south carolina
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens control like campaign ted self lobbyist cruz fund rubio interest lightweight therefor special
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens audit never everi unfairli get almost ir friend rich year singl wonder
+1 |time hours_from_midnight:9 |meta single_quote double_quote double_quote_at hashtags:1 |tokens thank
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ 830 marco lie ted cruz rubio lightweight talk
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens wow
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens thank robert #makeamericagreatagain pastor jeffress #trump2016
+1 |time hours_from_midnight:4 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta double_quote double_quote_at hashtags:0 |tokens thank
+-1 |time hours_from_midnight:2 |meta link hashtags:1 |tokens would #makeamericagreatagain watch offic day first
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens 10000 thank texa support #makeamericagreatagain #trump2016 amaz
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens see never let sweat
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens @ thank #trump2016 support #makeamericagreatagain governor friendship
+-1 |time hours_from_midnight:4 |meta single_quote hashtags:0 |tokens even dri dont show florida like high rubio doesnt vote left
+-1 |time hours_from_midnight:8 |meta hashtags:0 |tokens night marco last mr hard work choker alway rubio lightweight problem meltdown
+-1 |time hours_from_midnight:8 |meta hashtags:0 |tokens great said last wow debat night everi poll honor
+-1 |time hours_from_midnight:8 |meta hashtags:0 |tokens boy marco like materi choker littl rubio presidenti lightweight stage look
+-1 |time hours_from_midnight:8 |meta hashtags:0 |tokens lie great marco last night choker team ted rubio stop cruz lightweight fail ditch effort movement
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens earli made center convent get big 1130 crowd announc texa worth fort
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens quit marco would peopl florida repres rubio vote agre senat defraud
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens endors good despit win tuesday get loser one noth cruz done talk guy texa nasti chanc senat
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens plu last crowd big make 1200 realli speech expect night debat texa worth talk fort
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens high peed" still junior school"
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta single_quote double_quote double_quote_at hashtags:0 |tokens debate" hire never that work favorit before" tonight anyon youv line
+1 |time hours_from_midnight:12 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:7 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:7 |meta link double_quote double_quote_at hashtags:3 |tokens
+1 |time hours_from_midnight:7 |meta double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens tremend excit crowd ralli #trump2016 worth tomorrow big texa day fort
+-1 |time hours_from_midnight:6 |meta link hashtags:0 |tokens enjoy even good easi win debat realli onlin poll
+-1 |time hours_from_midnight:6 |meta link hashtags:2 |tokens #trump2016 #makeamericagreatagain
+-1 |time hours_from_midnight:6 |meta link hashtags:1 |tokens #makeamericagreatagain
+-1 |time hours_from_midnight:5 |meta link hashtags:2 |tokens thank la vega #votetrumpnv #nevadacaucu nevada
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens great america join la make safe live vega #votetrumpnv #nevadacaucu nevada
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens @ said would administr lie anoth ted back crazi cruz right citizen illeg countri come sent
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens @ said hit would big dope never watch wast fat tonight job bias time run bore total
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens town @ great eastern tonight conduct 1000 hall pm
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens vermont thank #votetrumpvt
+-1 |time hours_from_midnight:1 |meta hashtags:1 |tokens 35% via trump michigan #votetrumpmi 9% rubio carson cruz kasich arg 17% 12% thank
+-1 |time hours_from_midnight:1 |meta hashtags:1 |tokens #votetrumpnc @ great trump north thank 18% 3/15 36% rubio 10% carson cruz via kasich poll 7% carolina
+-1 |time hours_from_midnight:1 |meta link hashtags:1 |tokens thank wow soon see massachusett #votetrumpma
+1 |time hours_from_midnight:1 |meta hashtags:0 |tokens lost campaign incompet watch mitt steven romney clown badli know stuart strategist
+-1 |time hours_from_midnight:1 |meta hashtags:1 |tokens simon great bush 6% thank #votetrumpil 3/15 13% 28% rubio 8% carson cruz 14% 15% kasich poll/siu news illinoi trump
+1 |time hours_from_midnight:0 |meta link hashtags:2 |tokens enjoy @ la tonight 10pme vega nevada #trump2016 #hanniti
+1 |time hours_from_midnight:3 |meta single_quote hashtags:0 |tokens wont iowa rnc win disqualifi ted sad cruz leadership weak let happen republican fraudul probabl
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens play liar ridicul fals ted cruz take biggest polit basi fact ad
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens audit feder would bill ted cruz done allow reserv vote import miss yet
+-1 |time hours_from_midnight:6 |meta link hashtags:2 |tokens endors thank @ video #votetrumpnv #bikersfortrump
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens last show peopl debat say countri anger mani angri south carolina
+1 |time hours_from_midnight:10 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:10 |meta single_quote hashtags:0 |tokens better hide lot chicago $s ricket secretli hear cub famili spend care
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens work volunt trump la far win hotel intern vega team nevada best wonder
+1 |time hours_from_midnight:12 |meta link double_quote double_quote_at hashtags:2 |tokens
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens ago categori everi win number month landslid cruz expect group yet south carolin
+-1 |time hours_from_midnight:0 |meta link hashtags:0 |tokens great georgia thank make safe america let leav atlanta nevada
+1 |time hours_from_midnight:8 |meta link hashtags:0 |tokens thank south carolina
+1 |time hours_from_midnight:9 |meta link hashtags:0 |tokens account last quot read parodi jeb night msnbc
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ pollster fire journal bias paper wall wrongtot street board editori fail seldom
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ great word thank knowledg well style realli carolina south nice
+1 |time hours_from_midnight:3 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ get much drop someon race pick vote republican think fact
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ hillari beat win explain state r know vote indi noth dem
+-1 |time hours_from_midnight:1 |meta hashtags:2 |tokens enjoy @ show tonight phone #colbert #lssc late interview first
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens #trump2016 #makeamericagreatagain thank south carolina
+-1 |time hours_from_midnight:3 |meta link single_quote hashtags:0 |tokens north thank augusta dont block vote line 2500+ forget saturday south carolina
+-1 |time hours_from_midnight:7 |meta hashtags:1 |tokens @ great 5pm #votetrumpsc carolina watch south greenvil interview amaz day today sat
+-1 |time hours_from_midnight:12 |meta link hashtags:1 |tokens #makeamericagreatagain thank
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens even audienc bush trump rnc big rubio debat cruz ppp result new poll stack wonder
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens major full ralli spent yesterday great today spirit peopl meet day south carolina
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens thank #votetrumpsc ppp new poll south carolina
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens 10000 thank #votetrumpsc support greenvil night vote carolina saturday south amaz
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens support #makeamericagreatagain thank continu
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens lie #votetrumpsc senat cruz respons #trump2016
+-1 |time hours_from_midnight:7 |meta link double_quote hashtags:0 |tokens use politician "emin domain" privat jeb hypocrit anoth clueless massiv
+-1 |time hours_from_midnight:7 |meta link hashtags:0 |tokens use vet advantag emin process domain took jeb 2/2 disabl
+-1 |time hours_from_midnight:7 |meta single_quote hashtags:0 |tokens reveal use liar like emin never domain clue jeb critic call truth id 1/2
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens week great get big make vote america saturday south carolina
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens canada candid elig elect would may ted cruz jeb born bush presidenti run destroy hillari
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens even namethen campaign last help want use brother jeb funni famili fail mommi didnt
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens thank cb wow way new went poll forti
+1 |time hours_from_midnight:4 |meta hashtags:0 |tokens donor int said last terribl almost distrbut debat rnc job night love ticket everyon special
+-1 |time hours_from_midnight:7 |meta link hashtags:0 |tokens great thank make togeth america support
+-1 |time hours_from_midnight:10 |meta hashtags:0 |tokens enjoy face cb nation morn john dickerson
+1 |time hours_from_midnight:9 |meta double_quote hashtags:0 |tokens "highli great politician gift jeb funni bush call entertainer" assum compliment
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens great peopl carolina today leav south big new experi event hampshir amaz
+-1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ worthless like money report bad busi go cred look
+-1 |time hours_from_midnight:12 |meta hashtags:0 |tokens tri @ worthless desper zuckerman liabil mort sell dopey buyer massiv
+-1 |time hours_from_midnight:12 |meta hashtags:0 |tokens zuckerman worthless @ major mort soon paper complex dopey owner close inferior
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens love thank peopl hampshir new south carolina
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens #fitn depart thank #nhprimari famili new hampshir amaz
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens secur wall open border stop drug heroin build southern new come hampshir
+1 |time hours_from_midnight:2 |meta single_quote hashtags:0 |tokens save immedi like healthcar obamacar replac repeal better much nobodi $s
+1 |time hours_from_midnight:3 |meta double_quote hashtags:0 |tokens "leader" differ usa big make fast isi result threat win respect storywith today
+1 |time hours_from_midnight:8 |meta hashtags:0 |tokens great make hampshir vote new america today
+-1 |time hours_from_midnight:9 |meta link hashtags:3 |tokens #fitn locat #nhprimari #votetrumpnh poll find
+-1 |time hours_from_midnight:10 |meta link hashtags:1 |tokens great peopl #votetrumpnh messag video new import day hampshir
+-1 |time hours_from_midnight:10 |meta link hashtags:3 |tokens arena great #fitn thank verizon #votetrumpnh #makeamericagreatagain wireless night new hampshir
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens make america great
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens interview @ enjoy 840
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens play elect show win gener never repub state great poll best
+1 |time hours_from_midnight:12 |meta hashtags:0 |tokens help peopl million dollar spent one done mani happi disabl
+1 |time hours_from_midnight:12 |meta double_quote hashtags:0 |tokens gone use "governors" famili lie far nasti emin privat jeb bush know lot domain weakest
+1 |time hours_from_midnight:12 |meta double_quote hashtags:0 |tokens @ rememb core "come weak dc love" common want act illeg educ leader immigr
+-1 |time hours_from_midnight:4 |meta link hashtags:1 |tokens new #fitn thank hampshir
+-1 |time hours_from_midnight:2 |meta link hashtags:3 |tokens #fitn #votetrumpnh #nhprimari
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens end would campaign money million wast sad bush pac interest fail say $120 super special
+-1 |time hours_from_midnight:5 |meta link single_quote hashtags:2 |tokens #fitn thank third #votetrumpnh stop today new londonderri hampshir
+-1 |time hours_from_midnight:4 |meta double_quote hashtags:0 |tokens trick "deceit ben dirti ted carson cruz lies" blast dr
+-1 |time hours_from_midnight:4 |meta hashtags:1 |tokens lie repeal replac cruz total #obamacar
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens total iowa cheat disqualifi ted cruz state fraud elect basi recent
+1 |time hours_from_midnight:5 |meta hashtags:0 |tokens interview @ enjoy 700 pm
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens result nullifi fraud iowa elect caucu ted cruz base place either new commit senat take
+1 |time hours_from_midnight:10 |meta double_quote hashtags:0 |tokens lie voter trump caucusgo thousand obamacar strongli favor cruz total "choice" final told
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens certif fraud peopl thousand violat carson also cruz voter vote mani sent
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ iowa quit primetim vote releas cruz race put caucu
+1 |time hours_from_midnight:11 |meta single_quote hashtags:0 |tokens iowa bad anticip far stole ted wrong cruz win vote got poll didnt
+1 |time hours_from_midnight:5 |meta hashtags:0 |tokens real @ great said hostil beg us tonight dummi job went
+-1 |time hours_from_midnight:2 |meta link hashtags:2 |tokens #fitn crowd big expect way new #trump2016 spirit hampshir
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta link single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:4 |meta double_quote double_quote_at hashtags:0 |tokens
+-1 |time hours_from_midnight:4 |meta link hashtags:2 |tokens #trump2016 finder #iacaucu
+-1 |time hours_from_midnight:3 |meta single_quote hashtags:0 |tokens said would greta peopl wow watch debat im 87% honor
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens est like veteran rock fox debat rate special fall advertis event tune 9pm
+-1 |time hours_from_midnight:3 |meta link hashtags:2 |tokens thank #makeamericagreatagain lexington #trump2016 south carolina
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens pr @ made taunt fox debat written statement lightweight report childishli
+1 |time hours_from_midnight:2 |meta hashtags:0 |tokens enjoy @ eastern tonight interview 800 pm
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens campaign anyth owe self lobbyist fund interest special
+1 |time hours_from_midnight:5 |meta hashtags:0 |tokens even canada last though beat six ted cruz debat especi want one first
+1 |time hours_from_midnight:5 |meta hashtags:0 |tokens rush limbaugh got guy fantast listen
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens @ good disgrac would journal yesterday broadcast say nasti statement put dumb ever someth
+1 |time hours_from_midnight:10 |meta hashtags:0 |tokens @ great mexico wall win build establish pay strong border amaz
+-1 |time hours_from_midnight:11 |meta link hashtags:2 |tokens job histori american #votetrump greatest presid #trump2016 produc
+1 |time hours_from_midnight:11 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens enjoy great good iowa storm make two coast speech folk beauti east today luck
+1 |time hours_from_midnight:11 |meta double_quote double_quote_at hashtags:2 |tokens
+-1 |time hours_from_midnight:3 |meta link hashtags:1 |tokens get peopl writer articl wonder #trump2016 truli
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens asset fund w/ goldman loan never sachs/citi bed st wall cruz disclosur low interest honest sold legal
+-1 |time hours_from_midnight:2 |meta hashtags:1 |tokens prime run citizenship minist canadian renounc could us start cruz #potu senat
+-1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens disclos goldman support million $25 say sach cruz puppet money tarp didnt loan bank gave
+-1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens @ irrelev like show refus sad ask reason doesnt time fail mani listen
+-1 |time hours_from_midnight:1 |meta single_quote hashtags:0 |tokens @ like money review dog beg nation offic doesnt lightweight say one came
+-1 |time hours_from_midnight:5 |meta hashtags:0 |tokens mogul int $11m hypocrit contribut campaign fund receiv goldman wow ted sach ny cruz low $1m hedg $487k loan
+-1 |time hours_from_midnight:6 |meta link hashtags:0 |tokens nh great portsmouth depart thank crowd snow record morn storm
+-1 |time hours_from_midnight:6 |meta hashtags:0 |tokens @ greatli form lend wall financi pretend dishonest st list disclosur file go clean bank
+-1 |time hours_from_midnight:6 |meta hashtags:0 |tokens control @ contribut campaign give back base york interest new special
+-1 |time hours_from_midnight:6 |meta hashtags:0 |tokens love like get peopl ted cruz everybodi hypocrit york new thru polit
+-1 |time hours_from_midnight:6 |meta hashtags:0 |tokens espous gay money ted accept cruz marriag peopl oppos
+-1 |time hours_from_midnight:8 |meta link hashtags:0 |tokens ultim money ted say one thing hypocrit anoth vote
+-1 |time hours_from_midnight:11 |meta link hashtags:2 |tokens great thank #makeamericagreatagain number new #trump2016
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens form ted loan list person cruz disclosur illeg guarante purpos bank
+-1 |time hours_from_midnight:1 |meta link hashtags:3 |tokens poll #trump2016 #foxnew #makeamericagreatagain thank
+-1 |time hours_from_midnight:2 |meta hashtags:1 |tokens job non alik love trump creat union defect cant one member see compet els #dem leader like
+-1 |time hours_from_midnight:2 |meta hashtags:0 |tokens sell @ trump endors rep j worker job donald dont know demand let nobodi hope like
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens look crowd big way forward south carolina
+1 |time hours_from_midnight:9 |meta hashtags:0 |tokens hank @ total $10 ago campaign money million wast month 3 formerli aig happi greenberg gave
+1 |time hours_from_midnight:3 |meta single_quote double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:6 |meta double_quote double_quote_at hashtags:0 |tokens explan lie trump wh fog allow benghazi vote potus" war"
+-1 |time hours_from_midnight:5 |meta link hashtags:1 |tokens #happynewyearamerica
+-1 |time hours_from_midnight:3 |meta link hashtags:0 |tokens new year thank happi
+1 |time hours_from_midnight:11 |meta hashtags:0 |tokens va phoenix horrend fix shape wors peopl report die ever wait
+1 |time hours_from_midnight:3 |meta single_quote hashtags:0 |tokens wont hillari said run wouldnt lead beat peopl well say 21% place 1st
+1 |time hours_from_midnight:3 |meta hashtags:0 |tokens @ hillari beat dishonest air rate go reportingand along think came
+1 |time hours_from_midnight:3 |meta single_quote hashtags:1 |tokens @ great total trump win howev meaningless america stori 2015 #1 announc make dont
+1 |time hours_from_midnight:4 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:8 |meta link double_quote double_quote_at hashtags:0 |tokens
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:1 |tokens
+1 |time hours_from_midnight:5 |meta double_quote double_quote_at hashtags:0 |tokens thank
+-1 |time hours_from_midnight:3 |meta hashtags:0 |tokens blue @ great golf monster anoth thank award accolad redesign respect odyssey best highli
