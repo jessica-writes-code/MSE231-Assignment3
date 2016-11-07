@@ -43,9 +43,8 @@ make_calib <- function(data, predictions,plot_loc) {
 }
 
 ## Run Plots
-# Remember to change this to not reference the data folder
-make_roc("./data/test_tweets.tsv","./data/test_predictions.txt","./test_roc")
-make_roc("./data/train_tweets.tsv","./data/training_predictions.txt","./train_roc")
+make_roc("./test_tweets.tsv","./test_predictions.txt","./test_roc")
+make_roc("./train_tweets.tsv","./training_predictions.txt","./train_roc")
 
-make_calib("./data/test_tweets.tsv","./data/test_predictions.txt","./test_calib")
-make_calib("./data/train_tweets.tsv","./data/training_predictions.txt","./train_calib")
+make_calib("./test_tweets.tsv","./test_predictions.txt","./test_calib")
+make_calib("./train_tweets.tsv","./training_predictions.txt","./train_calib")

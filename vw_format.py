@@ -2,6 +2,13 @@ import sys
 from datetime import date, datetime
 import re
 from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem.porter import PorterStemmer
+import string
+
+printable = set(string.printable)
+stop_words = stopwords.words("english")
+porter = PorterStemmer()
 
 for line in sys.stdin:
     line = line.strip().split("\t")
@@ -18,8 +25,6 @@ for line in sys.stdin:
     
     # Time information
     date_time = datetime.strptime(line[1],"%Y-%m-%d %H:%M:%S")
-    line_info['weekday'] = date_time.weekday()
-    line_info['hour'] = date_time.hour
     line_info['hours_from_midnight'] = min(24 - date_time.hour, date_time.hour)
 
     # Tweet basic info
@@ -57,7 +62,7 @@ for line in sys.stdin:
     ### Hashtags
     line_info['hashtag'] = line[2].count('#')
 
-    ## Remove retweeted test
+    ## Remove retweeted text
     line[2] = re.sub('"@[^"]*"','',line[2])
     line[2] = re.sub("'@[^']*'","",line[2])
     if line[2].startswith('"@'):
@@ -67,18 +72,28 @@ for line in sys.stdin:
     line[2] = re.sub("@[a-zA-Z0-9_-]+", "@", line[2])
 
     # Tokenization
-    line[2] = line[2].translate(None,'-!,.?;:\'')
+    line[2] = filter(lambda x: x in printable, line[2])
+    line[2] = line[2].translate(None,'()!,.?;:\'')
+    line[2] = line[2].replace("-"," ")
+    tokens = line[2].split()
 
-    ## Tokenize
-    tokens = line[2].lower().split()
+
+    ## Make lowercase
+    tokens = [token.lower() for token in tokens] 
+
+    ## Remove stop words
+    tokens = [token for token in tokens if token not in stop_words]
+
+    ## Stem words
+    tokens = [porter.stem(token) for token in tokens]
+
+    ## Create set
     tokens = list(set(tokens))
 
     # Print line
     line_to_print = []
     line_to_print.append(str(line_info['class']))
     line_to_print.append('|time')
-    line_to_print.append('weekday:'+ str(line_info['weekday']))
-    line_to_print.append('hour:' + str(line_info['hour']))
     line_to_print.append('hours_from_midnight:' + str(line_info['hours_from_midnight']))
     line_to_print.append('|meta')
     for var in ['link','single_quote','single_quote_at','double_quote','double_quote_at']:
