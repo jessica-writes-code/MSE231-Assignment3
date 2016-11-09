@@ -25,14 +25,15 @@ make_calib <- function(data, predictions,plot_loc) {
   labels <- ifelse(df$V1=="Trump",1,0)
   vw_preds <- read.table(predictions)
   pred_bins <- round(1/(1+exp(-vw_preds)),1)
+  vw_preds_adj <- 1/(1+exp(-vw_preds))
   
-  pred_df <- data.frame(cbind(labels,pred_bins))
-  names(pred_df) <- c("labels","prediction")
+  pred_df <- data.frame(cbind(labels,vw_preds_adj,pred_bins))
+  names(pred_df) <- c("labels","prediction","prediction_bin")
   
-  pred_df_sum <- group_by(pred_df, prediction) %>%
-    summarize(avg_trump=mean(labels), n = n())
+  pred_df_sum <- group_by(pred_df, prediction_bin) %>%
+    summarize(avg_trump=mean(labels), avg_prediction=mean(prediction), n = n())
   theme_set(theme_bw())
-  ggplot(pred_df_sum, aes(x=prediction, y=avg_trump, size=n)) +
+  ggplot(pred_df_sum, aes(x=avg_prediction, y=avg_trump, size=n)) +
     geom_point(alpha=0.7) +
     labs(x="Model Prediction",y="Empirical Rate") +
     theme(legend.position="none") +
